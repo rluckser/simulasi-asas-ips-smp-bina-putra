@@ -1,0 +1,1354 @@
+[
+ {
+  "id": "IPS-01-A",
+  "indikator": 1,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Mengapa manusia melakukan kegiatan ekonomi seperti bekerja, berdagang, dan berbelanja?",
+  "jawaban": "Untuk memenuhi kebutuhan hidup",
+  "pembahasan": "Kegiatan ekonomi dilakukan untuk memenuhi kebutuhan hidup manusia. Kebutuhan manusia bermacam-macam dan harus dipenuhi melalui kegiatan produksi, distribusi, dan konsumsi, bukan semata-mata untuk mengumpulkan kekayaan atau bersenang-senang.",
+  "pilihan": [
+   "Untuk memenuhi kebutuhan hidup",
+   "Untuk mengumpulkan kekayaan sebanyak-banyaknya",
+   "Untuk menghabiskan waktu luang",
+   "Untuk bersaing dengan tetangga"
+  ]
+ },
+ {
+  "id": "IPS-01-B",
+  "indikator": 1,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Budi setiap hari bekerja di sawah, hasilnya dijual ke pasar, lalu uangnya dipakai membeli pakaian dan makanan untuk keluarganya. Kegiatan Budi tersebut menunjukkan bahwa kegiatan ekonomi dilakukan karena...",
+  "jawaban": "Kebutuhan manusia tidak terbatas, sedangkan alat pemuas kebutuhan terbatas",
+  "pembahasan": "Kebutuhan manusia tidak terbatas dan selalu bertambah, sedangkan alat pemuasnya terbatas, sehingga manusia harus melakukan kegiatan ekonomi. Bekerja dan berbelanja bukan karena waktu luang atau paksaan, melainkan untuk memenuhi kebutuhan.",
+  "pilihan": [
+   "Kebutuhan manusia tidak terbatas, sedangkan alat pemuas kebutuhan terbatas",
+   "Manusia mempunyai banyak waktu luang",
+   "Barang di pasar jumlahnya tidak terbatas",
+   "Semua kebutuhan manusia sudah terpenuhi"
+  ]
+ },
+ {
+  "id": "IPS-02-A",
+  "indikator": 2,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Pak Darto mempunyai usaha pembuatan roti. Setiap pagi ia mengolah tepung, gula, dan telur menjadi roti, lalu rotinya dijual ke toko-toko. Peran Pak Darto dalam kegiatan ekonomi adalah sebagai...",
+  "jawaban": "Produsen",
+  "pembahasan": "Produsen adalah pihak yang menghasilkan barang atau jasa. Pak Darto mengolah bahan baku menjadi roti, jadi ia produsen. Konsumen memakai barang, distributor menyalurkan barang, dan pemerintah mengatur kegiatan ekonomi.",
+  "pilihan": [
+   "Produsen",
+   "Konsumen",
+   "Distributor",
+   "Kreditur"
+  ]
+ },
+ {
+  "id": "IPS-02-B",
+  "indikator": 2,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Ibu Rina membuat kue dari tepung dan mentega, kemudian kue itu dijualnya di pasar. Kegiatan Ibu Rina termasuk kegiatan...",
+  "jawaban": "Produksi",
+  "pembahasan": "Produksi adalah kegiatan menghasilkan barang atau jasa, misalnya mengolah tepung menjadi kue. Konsumsi adalah memakai barang, distribusi adalah menyalurkan barang, dan menabung adalah kegiatan menyimpan uang.",
+  "pilihan": [
+   "Produksi",
+   "Konsumsi",
+   "Distribusi",
+   "Menabung"
+  ]
+ },
+ {
+  "id": "IPS-03-A",
+  "indikator": 3,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Keluarga Pak Budi memiliki sebidang tanah yang disewakan kepada petani. Atas tanah itu keluarganya menerima uang sewa setiap tahun. Hal ini menunjukkan rumah tangga konsumen berperan sebagai...",
+  "jawaban": "Pemilik faktor produksi",
+  "pembahasan": "Rumah tangga konsumen adalah pemilik faktor produksi (alam, tenaga kerja, modal, kewirausahaan) yang diserahkan kepada produsen dan menerima balas jasa berupa sewa, upah, bunga, atau laba. Rumah tangga konsumen bukan pengatur harga atau pemilik toko semata.",
+  "pilihan": [
+   "Pemilik faktor produksi",
+   "Pengatur harga barang",
+   "Pemilik toko di pasar",
+   "Penyalur barang impor"
+  ]
+ },
+ {
+  "id": "IPS-03-B",
+  "indikator": 3,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Siti bekerja sebagai penjahit di sebuah perusahaan garmen dan setiap bulan menerima upah. Berdasarkan hal itu, Siti sebagai anggota rumah tangga konsumen berperan sebagai...",
+  "jawaban": "Pemilik faktor produksi tenaga kerja",
+  "pembahasan": "Siti menyediakan tenaga kerjanya kepada perusahaan dan menerima upah sebagai balas jasanya, jadi ia pemilik faktor produksi tenaga kerja. Ia bukan pemilik perusahaan, distributor, atau pemerintah.",
+  "pilihan": [
+   "Pemilik faktor produksi tenaga kerja",
+   "Pemilik perusahaan garmen",
+   "Distributor hasil garmen",
+   "Pengatur upah minimum"
+  ]
+ },
+ {
+  "id": "IPS-04-A",
+  "indikator": 4,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Indonesia mengimpor gandum dari Australia karena gandum tidak dapat dihasilkan dalam jumlah cukup di dalam negeri. Dalam kegiatan ekonomi internasional ini, Australia berperan sebagai...",
+  "jawaban": "Negara pemasok barang impor",
+  "pembahasan": "Australia menjual dan mengirim gandum ke Indonesia, jadi Australia adalah negara pemasok (pengekspor) barang impor bagi Indonesia. Indonesia adalah negara pengimpor, bukan sebaliknya.",
+  "pilihan": [
+   "Negara pemasok barang impor",
+   "Negara pengimpor gandum",
+   "Negara konsumen gandum di Indonesia",
+   "Negara penyalur gandum dalam negeri"
+  ]
+ },
+ {
+  "id": "IPS-04-B",
+  "indikator": 4,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Sebuah perusahaan di Indonesia membeli mesin dari Jepang. Mesin tersebut dikirim dari Jepang ke Indonesia. Dalam kegiatan ini, Jepang berperan sebagai...",
+  "jawaban": "Negara eksportir mesin",
+  "pembahasan": "Jepang menjual mesin ke luar negeri, jadi Jepang berperan sebagai negara eksportir (penjual) dan Indonesia sebagai pengimpor. Jepang bukan konsumen akhir mesin itu di Indonesia dan bukan distributor dalam negeri.",
+  "pilihan": [
+   "Negara eksportir mesin",
+   "Negara pengimpor mesin",
+   "Distributor mesin di Indonesia",
+   "Konsumen mesin di Indonesia"
+  ]
+ },
+ {
+  "id": "IPS-05-A",
+  "indikator": 5,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Sebuah toko roti menerima roti dari pabrik roti setiap pagi, lalu menjual roti itu kepada pembeli yang datang ke toko. Peran toko roti tersebut dalam kegiatan ekonomi adalah sebagai...",
+  "jawaban": "Distributor",
+  "pembahasan": "Distributor adalah pihak yang menyalurkan barang dari produsen kepada konsumen. Toko roti menerima roti dari pabrik dan menjualnya kepada pembeli, jadi ia distributor, bukan produsen roti atau konsumennya.",
+  "pilihan": [
+   "Distributor",
+   "Produsen roti",
+   "Konsumen roti",
+   "Pemerintah daerah"
+  ]
+ },
+ {
+  "id": "IPS-05-B",
+  "indikator": 5,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Agen beras mengambil beras dari penggilingan padi, lalu menyalurkannya ke warung-warung kecil agar dapat dibeli masyarakat. Kegiatan agen beras tersebut termasuk kegiatan...",
+  "jawaban": "Distribusi",
+  "pembahasan": "Distribusi adalah kegiatan menyalurkan barang dari produsen kepada konsumen. Agen beras menyalurkan beras dari penggilingan ke warung, jadi kegiatannya distribusi, bukan produksi padi atau konsumsi beras.",
+  "pilihan": [
+   "Distribusi",
+   "Produksi",
+   "Konsumsi",
+   "Menabung"
+  ]
+ },
+ {
+  "id": "IPS-06-A",
+  "indikator": 6,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Pengiriman sayur dari kebun ke pasar terlambat dua hari karena jalan rusak. Akibatnya sayur menjadi layu dan tidak segar lagi. Dampak keterlambatan distribusi tersebut adalah...",
+  "jawaban": "Kualitas barang menurun sehingga nilai jualnya turun",
+  "pembahasan": "Barang yang terlambat sampai, apalagi barang mudah rusak seperti sayur, kualitasnya menurun sehingga pembeli tidak mau membayar mahal dan nilai jualnya turun. Keterlambatan distribusi tidak membuat barang bertambah banyak atau harganya otomatis naik.",
+  "pilihan": [
+   "Kualitas barang menurun sehingga nilai jualnya turun",
+   "Jumlah barang di pasar bertambah banyak",
+   "Kualitas barang menjadi lebih baik",
+   "Harga barang pasti naik dan penjual untung besar"
+  ]
+ },
+ {
+  "id": "IPS-06-B",
+  "indikator": 6,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Ikan hasil tangkapan nelayan terlambat dikirim ke pelelangan karena perahu rusak. Ikan menjadi tidak segar. Hal yang akan terjadi pada ikan tersebut adalah...",
+  "jawaban": "Harga jualnya turun karena kualitasnya menurun",
+  "pembahasan": "Ikan yang tidak segar kualitasnya menurun, sehingga pembeli menawar lebih murah dan harga jualnya turun. Keterlambatan distribusi merugikan penjual, bukan membuat ikan lebih awet atau jumlahnya bertambah.",
+  "pilihan": [
+   "Harga jualnya turun karena kualitasnya menurun",
+   "Ikan menjadi lebih awet dan mahal",
+   "Jumlah ikan di pelelangan bertambah",
+   "Pembeli berebut membeli ikan itu"
+  ]
+ },
+ {
+  "id": "IPS-07-A",
+  "indikator": 7,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Perhatikan ilustrasi penyaluran kopi berikut: (1) Petani memetik biji kopi di kebun. (2) Pedagang membeli kopi dari petani dan membawanya ke toko. (3) Keluarga membeli kopi di toko dan menyeduhnya di rumah. Urutan kegiatan ekonomi yang benar adalah...",
+  "jawaban": "Produksi, distribusi, konsumsi",
+  "pembahasan": "Memetik kopi adalah produksi, pedagang membawa kopi ke toko adalah distribusi, dan keluarga menyeduh kopi adalah konsumsi. Urutannya selalu produksi dahulu, lalu distribusi, baru konsumsi.",
+  "pilihan": [
+   "Produksi, distribusi, konsumsi",
+   "Konsumsi, produksi, distribusi",
+   "Distribusi, konsumsi, produksi",
+   "Produksi, konsumsi, distribusi"
+  ]
+ },
+ {
+  "id": "IPS-07-B",
+  "indikator": 7,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Perhatikan urutan kegiatan berikut: (1) Pabrik mengolah daun teh menjadi teh kemasan. (2) Teh kemasan dikirim ke warung-warung. (3) Ibu membeli teh di warung dan menyeduhnya untuk keluarga. Urutan kegiatan ekonomi yang tepat adalah...",
+  "jawaban": "Produksi, distribusi, konsumsi",
+  "pembahasan": "Pabrik mengolah teh adalah produksi, pengiriman ke warung adalah distribusi, dan ibu menyeduh teh adalah konsumsi. Urutan yang benar adalah produksi, distribusi, lalu konsumsi.",
+  "pilihan": [
+   "Produksi, distribusi, konsumsi",
+   "Distribusi, produksi, konsumsi",
+   "Konsumsi, distribusi, produksi",
+   "Konsumsi, produksi, distribusi"
+  ]
+ },
+ {
+  "id": "IPS-08-A",
+  "indikator": 8,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Sebuah pabrik baju memproduksi 1.000 baju dalam sebulan, tetapi hanya 400 baju yang terjual karena daya beli masyarakat sedang rendah. Tindakan rasional yang sebaiknya dilakukan produsen adalah...",
+  "jawaban": "Mengurangi jumlah produksi pada bulan berikutnya",
+  "pembahasan": "Jika barang yang diproduksi melebihi daya beli, barang akan menumpuk dan merugikan produsen, jadi tindakan rasional adalah mengurangi produksi. Menambah produksi justru memperbesar kerugian, sedangkan menaikkan harga akan makin sulit menjual.",
+  "pilihan": [
+   "Mengurangi jumlah produksi pada bulan berikutnya",
+   "Menambah jumlah produksi menjadi 2.000 baju",
+   "Menaikkan harga baju agar untung lebih besar",
+   "Membiarkan baju menumpuk di gudang"
+  ]
+ },
+ {
+  "id": "IPS-08-B",
+  "indikator": 8,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Seorang pengusaha sepatu membuat sepatu jauh lebih banyak daripada yang mampu dibeli masyarakat di sekitarnya, sehingga banyak sepatu tidak laku. Agar tidak terus merugi, pengusaha tersebut sebaiknya...",
+  "jawaban": "Menurunkan harga atau memberi diskon dan mengurangi produksi",
+  "pembahasan": "Menurunkan harga atau memberi diskon dapat mendorong pembeli, dan mengurangi produksi mencegah penumpukan barang. Menaikkan harga atau menambah produksi saat daya beli rendah justru membuat barang makin tidak laku.",
+  "pilihan": [
+   "Menurunkan harga atau memberi diskon dan mengurangi produksi",
+   "Menaikkan harga sepatu setinggi-tingginya",
+   "Menambah produksi sepatu sebanyak-banyaknya",
+   "Menutup toko dan membuang semua sepatu"
+  ]
+ },
+ {
+  "id": "IPS-09-A",
+  "indikator": 9,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Pak Andi bekerja di pabrik dan setiap bulan menerima upah dari perusahaan. Hal ini menunjukkan hubungan bahwa...",
+  "jawaban": "Rumah tangga menyediakan faktor produksi tenaga kerja dan menerima upah sebagai balas jasanya",
+  "pembahasan": "Rumah tangga konsumen menyediakan faktor produksi, salah satunya tenaga kerja, kepada produsen dan menerima balas jasa berupa upah. Upah bukan hadiah dari pemerintah, dan bukan pembayaran atas barang yang dibeli rumah tangga.",
+  "pilihan": [
+   "Rumah tangga menyediakan faktor produksi tenaga kerja dan menerima upah sebagai balas jasanya",
+   "Perusahaan memberi upah karena kasihan kepada pekerja",
+   "Upah adalah hadiah dari pemerintah kepada pekerja",
+   "Rumah tangga membeli tenaga kerja dari perusahaan"
+  ]
+ },
+ {
+  "id": "IPS-09-B",
+  "indikator": 9,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Ibu Sari menyewakan rukonya kepada pedagang dan setiap bulan menerima uang sewa. Hal ini menunjukkan bahwa...",
+  "jawaban": "Rumah tangga menyediakan faktor produksi alam dan menerima sewa sebagai balas jasanya",
+  "pembahasan": "Ruko berdiri di atas tanah, yaitu faktor produksi alam milik rumah tangga, sehingga rumah tangga menerima sewa sebagai balas jasa. Sewa bukan gaji pegawai dan bukan harga barang yang dijual pedagang.",
+  "pilihan": [
+   "Rumah tangga menyediakan faktor produksi alam dan menerima sewa sebagai balas jasanya",
+   "Pedagang memberi sewa karena membeli ruko itu",
+   "Uang sewa adalah gaji pegawai toko",
+   "Rumah tangga menjual tanahnya kepada pedagang"
+  ]
+ },
+ {
+  "id": "IPS-10-A",
+  "indikator": 10,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Harga",
+  "level": "Sedang",
+  "soal": "Menjelang hari raya, permintaan daging sapi meningkat tajam, sedangkan jumlah daging yang ditawarkan pedagang relatif tetap. Hal yang kemungkinan terjadi pada harga daging adalah...",
+  "jawaban": "Harga naik",
+  "pembahasan": "Jika permintaan naik sedangkan penawaran tetap, barang menjadi rebutan dan harganya naik. Harga tidak turun, karena pembeli yang banyak bersaing mendapatkan barang yang jumlahnya terbatas.",
+  "pilihan": [
+   "Harga naik",
+   "Harga turun",
+   "Harga tetap dan barang melimpah",
+   "Harga menjadi gratis"
+  ]
+ },
+ {
+  "id": "IPS-10-B",
+  "indikator": 10,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Harga",
+  "level": "Sedang",
+  "soal": "Permintaan masker meningkat pesat saat musim penyakit menular, tetapi persediaan masker di toko-toko tidak bertambah. Akibatnya, harga masker cenderung...",
+  "jawaban": "Naik karena permintaan lebih besar daripada penawaran",
+  "pembahasan": "Permintaan yang meningkat dengan penawaran yang tetap membuat masker langka dan harganya naik. Harga tidak turun, karena penjual tidak perlu menurunkan harga saat banyak pembeli berebut barang.",
+  "pilihan": [
+   "Naik karena permintaan lebih besar daripada penawaran",
+   "Turun karena banyak pembeli",
+   "Tetap karena masker selalu tersedia",
+   "Menjadi nol karena dibagikan gratis"
+  ]
+ },
+ {
+  "id": "IPS-11-A",
+  "indikator": 11,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Harga",
+  "level": "Sedang",
+  "soal": "Harga gula pasir naik dari Rp14.000 menjadi Rp18.000 per kilogram. Sesuai hukum permintaan, jumlah gula yang diminta konsumen cenderung...",
+  "jawaban": "Menurun",
+  "pembahasan": "Hukum permintaan menyatakan jika harga naik, jumlah barang yang diminta turun, dengan syarat hal lain tetap. Konsumen akan mengurangi pembelian atau mencari pengganti, bukan malah membeli lebih banyak.",
+  "pilihan": [
+   "Menurun",
+   "Meningkat",
+   "Tetap sama",
+   "Menjadi tidak terbatas"
+  ]
+ },
+ {
+  "id": "IPS-11-B",
+  "indikator": 11,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Harga",
+  "level": "Sedang",
+  "soal": "Harga minyak goreng turun dari Rp20.000 menjadi Rp15.000 per liter. Sesuai hukum permintaan, jumlah minyak goreng yang diminta konsumen cenderung...",
+  "jawaban": "Meningkat",
+  "pembahasan": "Hukum permintaan menyatakan jika harga turun, jumlah barang yang diminta naik, dengan syarat hal lain tetap. Harga yang lebih murah membuat konsumen mampu dan mau membeli lebih banyak.",
+  "pilihan": [
+   "Meningkat",
+   "Menurun",
+   "Tetap sama",
+   "Menjadi nol"
+  ]
+ },
+ {
+  "id": "IPS-12-A",
+  "indikator": 12,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Ibu membeli sayur di pasar tradisional. Ibu bertemu langsung dengan penjual, menawar harga, dan melihat sendiri sayur yang dibelinya. Berdasarkan wujudnya, pasar tersebut termasuk pasar...",
+  "jawaban": "Pasar konkret",
+  "pembahasan": "Pasar konkret adalah pasar tempat penjual dan pembeli bertemu langsung dan barangnya ada di tempat. Pasar abstrak justru barangnya tidak harus ada di tempat transaksi, misalnya pasar saham atau pasar online.",
+  "pilihan": [
+   "Pasar konkret",
+   "Pasar abstrak",
+   "Pasar modal",
+   "Pasar uang"
+  ]
+ },
+ {
+  "id": "IPS-12-B",
+  "indikator": 12,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Di pasar hewan, pembeli datang langsung, melihat sapi yang akan dibeli, dan bertransaksi dengan penjual di tempat itu juga. Pasar hewan tersebut berdasarkan wujudnya termasuk pasar...",
+  "jawaban": "Pasar konkret",
+  "pembahasan": "Pasar hewan mempertemukan penjual dan pembeli secara langsung dan hewannya ada di tempat, jadi termasuk pasar konkret. Pasar abstrak adalah pasar yang barangnya tidak hadir saat transaksi, seperti pasar saham.",
+  "pilihan": [
+   "Pasar konkret",
+   "Pasar abstrak",
+   "Pasar modal",
+   "Pasar internasional"
+  ]
+ },
+ {
+  "id": "IPS-13-A",
+  "indikator": 13,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Rina membeli baju melalui aplikasi perdagangan elektronik di ponselnya. Ia memilih baju, membayar secara digital, dan baju dikirim ke rumahnya tanpa ia bertemu penjualnya. Kegiatan Rina tersebut menunjukkan adanya...",
+  "jawaban": "Pasar digital",
+  "pembahasan": "Pasar digital adalah pasar yang transaksinya dilakukan melalui media elektronik atau internet, tanpa penjual dan pembeli harus bertemu langsung. Pasar tradisional dan pasar konkret justru mempertemukan penjual dan pembeli secara langsung.",
+  "pilihan": [
+   "Pasar digital",
+   "Pasar tradisional",
+   "Pasar konkret",
+   "Pasar malam"
+  ]
+ },
+ {
+  "id": "IPS-13-B",
+  "indikator": 13,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Budi memesan makanan melalui aplikasi di ponsel, membayar dengan dompet digital, lalu makanan diantar oleh kurir ke rumahnya. Transaksi Budi tersebut terjadi di...",
+  "jawaban": "Pasar digital",
+  "pembahasan": "Transaksi melalui aplikasi dan pembayaran digital adalah ciri pasar digital. Pasar konkret dan pasar tradisional mengharuskan penjual dan pembeli bertemu langsung di satu tempat.",
+  "pilihan": [
+   "Pasar digital",
+   "Pasar konkret",
+   "Pasar tradisional",
+   "Pasar hewan"
+  ]
+ },
+ {
+  "id": "IPS-14-A",
+  "indikator": 14,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Di pasar, seorang pembeli menawar harga mangga dari Rp20.000 menjadi Rp15.000 per kilogram, dan penjual akhirnya setuju. Peristiwa tawar-menawar tersebut menunjukkan fungsi pasar sebagai...",
+  "jawaban": "Sarana pembentukan harga",
+  "pembahasan": "Salah satu fungsi pasar adalah sebagai sarana pembentukan harga melalui tawar-menawar antara penjual dan pembeli hingga tercapai kesepakatan. Pasar bukan tempat mencetak uang atau menyimpan barang semata.",
+  "pilihan": [
+   "Sarana pembentukan harga",
+   "Tempat mencetak uang",
+   "Tempat menyimpan barang dagangan",
+   "Sarana memproduksi barang"
+  ]
+ },
+ {
+  "id": "IPS-14-B",
+  "indikator": 14,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Penjual dan pembeli di pasar saling menawar hingga akhirnya sepakat pada harga Rp10.000 untuk sekilo jeruk. Kesepakatan harga yang terjadi itu merupakan fungsi pasar sebagai...",
+  "jawaban": "Tempat bertemunya penjual dan pembeli untuk menentukan harga",
+  "pembahasan": "Pasar mempertemukan penjual dan pembeli sehingga terjadi tawar-menawar dan terbentuk harga kesepakatan. Fungsi ini berbeda dengan fungsi distribusi barang atau promosi produk.",
+  "pilihan": [
+   "Tempat bertemunya penjual dan pembeli untuk menentukan harga",
+   "Tempat menyimpan uang hasil penjualan",
+   "Tempat mengolah bahan baku menjadi barang",
+   "Tempat mengiklankan barang secara gratis"
+  ]
+ },
+ {
+  "id": "IPS-15-A",
+  "indikator": 15,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Sebuah lembaga menerima simpanan uang dari masyarakat dalam bentuk tabungan, lalu menyalurkan dana itu kembali kepada masyarakat dalam bentuk kredit. Lembaga tersebut adalah...",
+  "jawaban": "Bank",
+  "pembahasan": "Bank adalah lembaga keuangan yang menghimpun dana dari masyarakat dan menyalurkannya kembali dalam bentuk kredit. Pegadaian menyalurkan pinjaman dengan jaminan, asuransi menanggung risiko, dan koperasi melayani anggotanya.",
+  "pilihan": [
+   "Bank",
+   "Pegadaian",
+   "Asuransi",
+   "Pasar modal"
+  ]
+ },
+ {
+  "id": "IPS-15-B",
+  "indikator": 15,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Pak Hasan menyimpan uangnya di sebuah lembaga dan mendapat bunga. Tetangganya meminjam uang dari lembaga yang sama untuk modal usaha. Lembaga yang dimaksud adalah...",
+  "jawaban": "Bank",
+  "pembahasan": "Lembaga yang menghimpun dana masyarakat (tabungan) dan menyalurkannya sebagai pinjaman atau kredit adalah bank. Lembaga lain seperti asuransi menanggung risiko, bukan menyalurkan kredit dari tabungan.",
+  "pilihan": [
+   "Bank",
+   "Asuransi",
+   "Pegadaian",
+   "Bursa efek"
+  ]
+ },
+ {
+  "id": "IPS-16-A",
+  "indikator": 16,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Perhatikan pernyataan berikut: (1) Harga ditentukan lewat tawar-menawar. (2) Harga sudah tercantum dan tidak bisa ditawar. (3) Bangunan nyaman dan ber-AC. Pernyataan yang benar tentang pasar tradisional dan modern adalah...",
+  "jawaban": "Pasar tradisional bercirikan pernyataan (1), pasar modern bercirikan pernyataan (2) dan (3)",
+  "pembahasan": "Pasar tradisional bercirikan tawar-menawar dan harga tidak tetap, sedangkan pasar modern bercirikan harga pasti yang sudah tercantum dan tempat yang nyaman. Jadi pernyataan (1) untuk tradisional, (2) dan (3) untuk modern.",
+  "pilihan": [
+   "Pasar tradisional bercirikan pernyataan (1), pasar modern bercirikan pernyataan (2) dan (3)",
+   "Pasar tradisional bercirikan pernyataan (2), pasar modern bercirikan pernyataan (1)",
+   "Kedua pasar sama-sama tidak mengenal tawar-menawar",
+   "Pasar modern selalu menjual barang lebih mahal dan tidak nyaman"
+  ]
+ },
+ {
+  "id": "IPS-16-B",
+  "indikator": 16,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Ibu berbelanja di supermarket. Harga setiap barang sudah tercantum pada label, ibu tidak bisa menawar, dan ia membayar di kasir. Hal ini menunjukkan ciri pasar modern, yaitu...",
+  "jawaban": "Harga barang sudah pasti dan tidak dapat ditawar",
+  "pembahasan": "Di pasar modern harga sudah ditetapkan dan tercantum, sehingga pembeli tidak menawar. Tawar-menawar justru ciri pasar tradisional, sedangkan pasar modern biasanya bersih, nyaman, dan harga pasti.",
+  "pilihan": [
+   "Harga barang sudah pasti dan tidak dapat ditawar",
+   "Harga barang ditentukan lewat tawar-menawar",
+   "Barang dijual di emperan tanpa label harga",
+   "Pembeli harus membawa barang dagangannya sendiri"
+  ]
+ },
+ {
+  "id": "IPS-17-A",
+  "indikator": 17,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Berikut ini yang merupakan ciri-ciri pasar konkret adalah...",
+  "jawaban": "Penjual dan pembeli bertemu langsung dan barang yang diperjualbelikan ada di tempat",
+  "pembahasan": "Pasar konkret mempertemukan penjual dan pembeli secara langsung dan barangnya dapat dilihat di tempat. Jika barangnya tidak ada di tempat transaksi, itu pasar abstrak.",
+  "pilihan": [
+   "Penjual dan pembeli bertemu langsung dan barang yang diperjualbelikan ada di tempat",
+   "Penjual dan pembeli tidak pernah bertemu dan barang dikirim dari jauh",
+   "Barang yang dijual hanya berupa surat berharga",
+   "Transaksi hanya dilakukan melalui internet"
+  ]
+ },
+ {
+  "id": "IPS-17-B",
+  "indikator": 17,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Pasar tempat ibu membeli ikan setiap pagi disebut pasar konkret karena...",
+  "jawaban": "Barang dagangannya dapat dilihat dan dipilih langsung oleh pembeli di tempat",
+  "pembahasan": "Di pasar konkret barangnya ada dan dapat dilihat serta dipilih langsung oleh pembeli. Pasar yang transaksinya tanpa barang di tempat, misalnya pasar saham, adalah pasar abstrak.",
+  "pilihan": [
+   "Barang dagangannya dapat dilihat dan dipilih langsung oleh pembeli di tempat",
+   "Barang dagangannya hanya berupa angka di layar",
+   "Pembeli tidak boleh melihat barang sebelum membayar",
+   "Penjual dan pembeli berkomunikasi lewat surat saja"
+  ]
+ },
+ {
+  "id": "IPS-18-A",
+  "indikator": 18,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Salah satu fungsi lembaga keuangan bagi perekonomian adalah...",
+  "jawaban": "Menghimpun dana masyarakat dan menyalurkannya kepada pihak yang membutuhkan",
+  "pembahasan": "Lembaga keuangan menghimpun dana dari masyarakat yang kelebihan dana dan menyalurkannya kepada pihak yang membutuhkan, misalnya sebagai kredit usaha. Lembaga keuangan bukan mencetak uang atau menentukan harga barang di pasar.",
+  "pilihan": [
+   "Menghimpun dana masyarakat dan menyalurkannya kepada pihak yang membutuhkan",
+   "Mencetak uang kertas untuk masyarakat",
+   "Menentukan harga semua barang di pasar",
+   "Membeli seluruh hasil panen petani"
+  ]
+ },
+ {
+  "id": "IPS-18-B",
+  "indikator": 18,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Seorang pengusaha kecil mendapat pinjaman modal dari bank untuk mengembangkan usahanya. Hal ini menunjukkan fungsi lembaga keuangan sebagai...",
+  "jawaban": "Penyalur dana kepada masyarakat yang membutuhkan modal",
+  "pembahasan": "Lembaga keuangan menyalurkan dana kepada pihak yang membutuhkan, misalnya pengusaha yang butuh modal. Fungsi ini berbeda dengan menyimpan barang dagangan atau mengatur harga pasar.",
+  "pilihan": [
+   "Penyalur dana kepada masyarakat yang membutuhkan modal",
+   "Penyimpan barang dagangan pengusaha",
+   "Pengatur harga jual produk pengusaha",
+   "Pembeli seluruh produk pengusaha"
+  ]
+ },
+ {
+  "id": "IPS-19-A",
+  "indikator": 19,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Berikut ini yang termasuk contoh lembaga keuangan bukan bank adalah...",
+  "jawaban": "Pegadaian",
+  "pembahasan": "Pegadaian adalah lembaga keuangan bukan bank yang memberikan pinjaman dengan jaminan barang. Bank umum dan bank perkreditan rakyat termasuk lembaga keuangan bank, sedangkan pasar bukan lembaga keuangan.",
+  "pilihan": [
+   "Pegadaian",
+   "Bank umum",
+   "Bank perkreditan rakyat",
+   "Bank sentral"
+  ]
+ },
+ {
+  "id": "IPS-19-B",
+  "indikator": 19,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Sebuah lembaga menanggung risiko kerugian anggotanya dengan sistem premi: anggota membayar iuran setiap bulan, dan jika terjadi musibah yang dijamin, lembaga itu memberikan ganti rugi. Lembaga tersebut termasuk lembaga keuangan bukan bank, yaitu...",
+  "jawaban": "Asuransi",
+  "pembahasan": "Lembaga yang menanggung risiko dengan sistem premi adalah asuransi, yang termasuk lembaga keuangan bukan bank. Bank umum, bank syariah, dan bank sentral termasuk lembaga keuangan bank.",
+  "pilihan": [
+   "Asuransi",
+   "Bank umum",
+   "Bank syariah",
+   "Bank sentral"
+  ]
+ },
+ {
+  "id": "IPS-20-A",
+  "indikator": 20,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Ibu Dewi membutuhkan uang tunai dan menggadaikan perhiasan emasnya ke sebuah lembaga. Setelah melunasi pinjaman beserta bunganya, perhiasannya dikembalikan. Lembaga yang dimaksud adalah...",
+  "jawaban": "Pegadaian",
+  "pembahasan": "Pegadaian memberikan pinjaman dengan jaminan barang bergerak seperti perhiasan, dan barang dikembalikan setelah pinjaman dilunasi. Asuransi menanggung risiko, sedangkan bank adalah lembaga keuangan bank.",
+  "pilihan": [
+   "Pegadaian",
+   "Asuransi jiwa",
+   "Bank umum",
+   "Pasar modal"
+  ]
+ },
+ {
+  "id": "IPS-20-B",
+  "indikator": 20,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Pak Rudi ingin membeli sepeda motor secara kredit melalui sebuah perusahaan pembiayaan yang menyewakan kendaraan dengan cara angsuran. Perusahaan tersebut termasuk lembaga keuangan bukan bank, yaitu...",
+  "jawaban": "Leasing (perusahaan pembiayaan)",
+  "pembahasan": "Leasing atau perusahaan pembiayaan adalah lembaga keuangan bukan bank yang membiayai pembelian barang secara angsuran atau sewa guna usaha. Bank adalah lembaga keuangan bank, dan asuransi menanggung risiko, bukan membiayai kendaraan.",
+  "pilihan": [
+   "Leasing (perusahaan pembiayaan)",
+   "Bank umum",
+   "Asuransi kesehatan",
+   "Bursa efek"
+  ]
+ },
+ {
+  "id": "IPS-21-A",
+  "indikator": 21,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Salah satu manfaat lembaga keuangan bagi masyarakat adalah...",
+  "jawaban": "Masyarakat dapat menyimpan uang dengan aman dan memperoleh pinjaman modal",
+  "pembahasan": "Lembaga keuangan memberi tempat yang aman untuk menyimpan uang dan menyediakan pinjaman bagi yang membutuhkan modal. Lembaga keuangan tidak membuat masyarakat tidak perlu bekerja atau menghapus semua risiko usaha.",
+  "pilihan": [
+   "Masyarakat dapat menyimpan uang dengan aman dan memperoleh pinjaman modal",
+   "Masyarakat tidak perlu lagi bekerja untuk hidup",
+   "Semua risiko usaha dijamin hilang",
+   "Masyarakat dapat mengambil uang orang lain"
+  ]
+ },
+ {
+  "id": "IPS-21-B",
+  "indikator": 21,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Andi menabung di bank setiap bulan. Manfaat yang diperoleh Andi dari lembaga keuangan tersebut adalah...",
+  "jawaban": "Uangnya tersimpan dengan aman dan mendapat bunga",
+  "pembahasan": "Menabung di bank membuat uang tersimpan aman dan mendapat bunga. Uang yang ditabung tidak hilang begitu saja dan tidak otomatis berlipat ganda tanpa batas.",
+  "pilihan": [
+   "Uangnya tersimpan dengan aman dan mendapat bunga",
+   "Uangnya hilang setelah satu bulan",
+   "Andi tidak boleh mengambil uangnya lagi",
+   "Bunga tabungan membuat Andi tidak perlu bekerja"
+  ]
+ },
+ {
+  "id": "IPS-22-A",
+  "indikator": 22,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Fungsi asuransi dalam pengelolaan risiko adalah...",
+  "jawaban": "Mengalihkan risiko kerugian dari tertanggung kepada perusahaan asuransi",
+  "pembahasan": "Asuransi mengalihkan risiko kerugian kepada perusahaan asuransi: tertanggung membayar premi, dan jika terjadi musibah yang dijamin, perusahaan asuransi memberikan ganti rugi. Asuransi tidak menghilangkan musibah itu sendiri.",
+  "pilihan": [
+   "Mengalihkan risiko kerugian dari tertanggung kepada perusahaan asuransi",
+   "Menghilangkan semua risiko dalam kehidupan",
+   "Menjamin seseorang tidak pernah sakit",
+   "Membuat barang yang diasuransikan tidak bisa rusak"
+  ]
+ },
+ {
+  "id": "IPS-22-B",
+  "indikator": 22,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Pak Budi mengasuransikan rumahnya dan membayar premi setiap bulan. Ketika rumahnya terbakar, ia mendapat ganti rugi dari perusahaan asuransi. Hal ini menunjukkan fungsi asuransi sebagai...",
+  "jawaban": "Pelindung dari kerugian keuangan akibat risiko yang terjadi",
+  "pembahasan": "Asuransi melindungi tertanggung dari kerugian keuangan dengan memberikan ganti rugi saat risiko yang dijamin terjadi. Asuransi tidak mencegah kebakaran dan tidak mengembalikan rumah seperti semula secara ajaib.",
+  "pilihan": [
+   "Pelindung dari kerugian keuangan akibat risiko yang terjadi",
+   "Pencegah terjadinya kebakaran",
+   "Penjual rumah baru secara gratis",
+   "Pengganti seluruh isi rumah tanpa syarat"
+  ]
+ },
+ {
+  "id": "IPS-23-A",
+  "indikator": 23,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Perbedaan sistem harga antara pasar modern dan pasar tradisional adalah...",
+  "jawaban": "Di pasar modern harga sudah ditetapkan dan tidak bisa ditawar, sedangkan di pasar tradisional harga ditentukan lewat tawar-menawar",
+  "pembahasan": "Pasar modern memakai harga pasti yang tercantum pada label, sedangkan pasar tradisional memakai tawar-menawar antara penjual dan pembeli. Perbedaan ini adalah ciri utama kedua jenis pasar tersebut.",
+  "pilihan": [
+   "Di pasar modern harga sudah ditetapkan dan tidak bisa ditawar, sedangkan di pasar tradisional harga ditentukan lewat tawar-menawar",
+   "Di pasar modern harga ditentukan lewat tawar-menawar, sedangkan di pasar tradisional harga sudah ditetapkan",
+   "Kedua pasar tidak mengenal harga sama sekali",
+   "Di pasar tradisional harga selalu lebih mahal daripada di pasar modern"
+  ]
+ },
+ {
+  "id": "IPS-23-B",
+  "indikator": 23,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Di pasar tradisional, harga sekilo cabai bisa berbeda-beda tergantung hasil tawar-menawar, sedangkan di supermarket harga cabai sudah tertulis di label. Perbedaan tersebut menunjukkan bahwa...",
+  "jawaban": "Sistem harga pasar tradisional fleksibel melalui tawar-menawar, sedangkan pasar modern memakai harga pasti",
+  "pembahasan": "Harga di pasar tradisional terbentuk lewat tawar-menawar sehingga bisa berbeda untuk pembeli yang berbeda, sedangkan di pasar modern harga sudah pasti dan sama untuk semua pembeli.",
+  "pilihan": [
+   "Sistem harga pasar tradisional fleksibel melalui tawar-menawar, sedangkan pasar modern memakai harga pasti",
+   "Pasar tradisional tidak pernah memakai uang dalam transaksi",
+   "Pasar modern menjual barang tanpa harga",
+   "Harga di kedua pasar selalu sama setiap hari"
+  ]
+ },
+ {
+  "id": "IPS-24-A",
+  "indikator": 24,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Transformasi ekonomi digital",
+  "level": "Sedang",
+  "soal": "Salah satu dampak ekonomi era digital terhadap UMKM adalah...",
+  "jawaban": "UMKM dapat memasarkan produknya lebih luas melalui internet",
+  "pembahasan": "Era digital memungkinkan UMKM berjualan lewat marketplace dan media sosial sehingga jangkauan pasarnya lebih luas dan biaya promosi lebih murah. Dampak ini positif, meskipun UMKM juga menghadapi persaingan yang lebih ketat.",
+  "pilihan": [
+   "UMKM dapat memasarkan produknya lebih luas melalui internet",
+   "UMKM tidak boleh lagi berjualan di pasar tradisional",
+   "UMKM pasti gulung tikar karena internet",
+   "UMKM tidak membutuhkan pembeli lagi"
+  ]
+ },
+ {
+  "id": "IPS-24-B",
+  "indikator": 24,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Transformasi ekonomi digital",
+  "level": "Sedang",
+  "soal": "Seorang pengrajin batik di desa kini menjual batiknya melalui marketplace sehingga pembelinya datang dari berbagai kota. Hal ini menunjukkan dampak positif ekonomi digital bagi UMKM, yaitu...",
+  "jawaban": "Pemasaran menjadi lebih luas dan tidak terbatas pada daerah setempat",
+  "pembahasan": "Melalui marketplace, produk UMKM dapat dilihat dan dibeli orang dari berbagai daerah, sehingga pasarnya meluas. Ekonomi digital tidak membuat pengrajin berhenti berproduksi atau hanya menjual di desanya saja.",
+  "pilihan": [
+   "Pemasaran menjadi lebih luas dan tidak terbatas pada daerah setempat",
+   "Pengrajin tidak perlu lagi membuat batik",
+   "Pembeli hanya berasal dari desa yang sama",
+   "Harga batik menjadi tidak terkendali"
+  ]
+ },
+ {
+  "id": "IPS-25-A",
+  "indikator": 25,
+  "tipe": "PG",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Tempat jual beli saham dan surat berharga jangka panjang disebut...",
+  "jawaban": "Pasar modal",
+  "pembahasan": "Pasar modal adalah pasar tempat jual beli surat berharga jangka panjang seperti saham dan obligasi, misalnya di bursa efek. Pasar uang memperjualbelikan dana jangka pendek, sedangkan pasar barang memperjualbelikan barang.",
+  "pilihan": [
+   "Pasar modal",
+   "Pasar uang",
+   "Pasar barang",
+   "Pasar tradisional"
+  ]
+ },
+ {
+  "id": "IPS-25-B",
+  "indikator": 25,
+  "tipe": "PG",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Perusahaan menjual sahamnya kepada masyarakat melalui bursa efek agar memperoleh modal untuk memperluas usaha. Kegiatan jual beli saham tersebut terjadi di...",
+  "jawaban": "Pasar modal",
+  "pembahasan": "Bursa efek adalah bagian dari pasar modal, tempat surat berharga jangka panjang seperti saham diperjualbelikan. Pasar tenaga kerja memperjualbelikan jasa tenaga kerja, bukan saham.",
+  "pilihan": [
+   "Pasar modal",
+   "Pasar tenaga kerja",
+   "Pasar konkret",
+   "Pasar malam"
+  ]
+ },
+ {
+  "id": "IPS-26-A",
+  "indikator": 26,
+  "tipe": "Benar-Salah",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Pernyataan: Rumah tangga konsumen berperan sebagai pemilik faktor produksi dan pengguna barang atau jasa.",
+  "jawaban": "Benar",
+  "pembahasan": "Pernyataan itu benar: rumah tangga konsumen memiliki faktor produksi (alam, tenaga kerja, modal, kewirausahaan) yang diserahkan kepada produsen, dan juga memakai barang atau jasa untuk memenuhi kebutuhannya."
+ },
+ {
+  "id": "IPS-26-B",
+  "indikator": 26,
+  "tipe": "Benar-Salah",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Pernyataan: Rumah tangga produsen adalah pihak yang mengonsumsi barang dan jasa untuk memenuhi kebutuhan sehari-hari.",
+  "jawaban": "Salah",
+  "pembahasan": "Pernyataan itu salah: pihak yang mengonsumsi barang dan jasa untuk kebutuhan sehari-hari adalah rumah tangga konsumen. Rumah tangga produsen (perusahaan) menghasilkan barang dan jasa."
+ },
+ {
+  "id": "IPS-27-A",
+  "indikator": 27,
+  "tipe": "Benar-Salah",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Pernyataan: Bea masuk adalah pungutan atas barang yang dikirim ke luar negeri, sedangkan bea keluar adalah pungutan atas barang yang masuk dari luar negeri.",
+  "jawaban": "Salah",
+  "pembahasan": "Pernyataan itu salah karena terbalik: bea masuk dikenakan atas barang yang masuk dari luar negeri (impor), sedangkan bea keluar dikenakan atas barang yang dikirim ke luar negeri (ekspor)."
+ },
+ {
+  "id": "IPS-27-B",
+  "indikator": 27,
+  "tipe": "Benar-Salah",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Pernyataan: Bea masuk dikenakan atas barang impor, sedangkan bea keluar dikenakan atas barang ekspor.",
+  "jawaban": "Benar",
+  "pembahasan": "Pernyataan itu benar: bea masuk adalah pungutan pemerintah atas barang yang masuk dari luar negeri, dan bea keluar adalah pungutan atas barang yang keluar ke luar negeri."
+ },
+ {
+  "id": "IPS-28-A",
+  "indikator": 28,
+  "tipe": "Benar-Salah",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Pernyataan: Bank termasuk lembaga keuangan bank, sedangkan pegadaian termasuk lembaga keuangan bukan bank.",
+  "jawaban": "Benar",
+  "pembahasan": "Pernyataan itu benar: bank menghimpun dana masyarakat dan menyalurkan kredit, sedangkan pegadaian adalah lembaga keuangan bukan bank yang memberi pinjaman dengan jaminan barang."
+ },
+ {
+  "id": "IPS-28-B",
+  "indikator": 28,
+  "tipe": "Benar-Salah",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Mudah",
+  "soal": "Pernyataan: Koperasi dan asuransi termasuk lembaga keuangan bank.",
+  "jawaban": "Salah",
+  "pembahasan": "Pernyataan itu salah: koperasi dan asuransi termasuk lembaga keuangan bukan bank. Lembaga keuangan bank contohnya bank umum dan bank perkreditan rakyat."
+ },
+ {
+  "id": "IPS-29-A",
+  "indikator": 29,
+  "tipe": "Benar-Salah",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Pernyataan: Tujuan utama perdagangan internasional adalah membatasi barang yang masuk agar masyarakat tidak bisa membeli produk luar negeri.",
+  "jawaban": "Salah",
+  "pembahasan": "Pernyataan itu salah: tujuan perdagangan internasional antara lain memperoleh barang yang tidak dapat diproduksi di dalam negeri, memperluas pasar, dan memperoleh devisa. Membatasi barang masuk justru dapat dilakukan lewat kebijakan proteksi, bukan tujuan utama perdagangan internasional."
+ },
+ {
+  "id": "IPS-29-B",
+  "indikator": 29,
+  "tipe": "Benar-Salah",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Pernyataan: Salah satu tujuan perdagangan internasional adalah memperoleh barang yang tidak dapat diproduksi di dalam negeri.",
+  "jawaban": "Benar",
+  "pembahasan": "Pernyataan itu benar: suatu negara berdagang dengan negara lain antara lain untuk memperoleh barang yang tidak bisa atau tidak cukup diproduksi di dalam negeri, misalnya gandum atau mesin tertentu."
+ },
+ {
+  "id": "IPS-30-A",
+  "indikator": 30,
+  "tipe": "Benar-Salah",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Pernyataan: Rumah tangga berperan sebagai konsumen sekaligus pemilik faktor produksi seperti tenaga kerja.",
+  "jawaban": "Benar",
+  "pembahasan": "Pernyataan itu benar: rumah tangga mengonsumsi barang dan jasa, sekaligus memiliki faktor produksi seperti tenaga kerja yang diserahkan kepada perusahaan dan menerima upah."
+ },
+ {
+  "id": "IPS-30-B",
+  "indikator": 30,
+  "tipe": "Benar-Salah",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Pernyataan: Rumah tangga tidak berperan dalam kegiatan ekonomi karena hanya pemerintah yang mengatur produksi.",
+  "jawaban": "Salah",
+  "pembahasan": "Pernyataan itu salah: rumah tangga berperan penting sebagai konsumen dan pemilik faktor produksi. Pemerintah memang mengatur, tetapi kegiatan ekonomi juga dijalankan oleh rumah tangga konsumen, perusahaan, dan luar negeri."
+ },
+ {
+  "id": "IPS-31-A",
+  "indikator": 31,
+  "tipe": "Menjodohkan",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Jodohkan kegiatan berikut dengan istilah yang tepat.\nKegiatan: Menyalurkan barang dari produsen ke konsumen.",
+  "jawaban": "Distribusi",
+  "pembahasan": "Menyalurkan barang dari produsen ke konsumen disebut distribusi. Produksi adalah menghasilkan barang, sedangkan konsumsi adalah memakai barang.",
+  "pilihan": [
+   "Produksi",
+   "Distribusi",
+   "Konsumsi",
+   "Menabung"
+  ]
+ },
+ {
+  "id": "IPS-31-B",
+  "indikator": 31,
+  "tipe": "Menjodohkan",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Jodohkan pihak berikut dengan istilah yang tepat.\nPihak: Orang atau lembaga yang menyalurkan barang dari produsen ke konsumen.",
+  "jawaban": "Distributor",
+  "pembahasan": "Pihak yang menyalurkan barang dari produsen ke konsumen disebut distributor. Produsen menghasilkan barang, konsumen memakai barang, dan distributor menyalurkannya.",
+  "pilihan": [
+   "Produsen",
+   "Konsumen",
+   "Distributor",
+   "Kreditur"
+  ]
+ },
+ {
+  "id": "IPS-32-A",
+  "indikator": 32,
+  "tipe": "Menjodohkan",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Jodohkan jenis pasar berikut dengan pengertiannya.\nPasar tempat jual beli jasa tenaga kerja.",
+  "jawaban": "Pasar tenaga kerja",
+  "pembahasan": "Pasar tempat jual beli jasa tenaga kerja disebut pasar tenaga kerja, salah satu jenis pasar berdasarkan faktor produksi yang diperjualbelikan. Pasar barang memperjualbelikan barang, pasar modal memperjualbelikan surat berharga.",
+  "pilihan": [
+   "Pasar barang",
+   "Pasar tenaga kerja",
+   "Pasar modal",
+   "Pasar uang"
+  ]
+ },
+ {
+  "id": "IPS-32-B",
+  "indikator": 32,
+  "tipe": "Menjodohkan",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sedang",
+  "soal": "Jodohkan jenis pasar berikut dengan pengertiannya.\nPasar tempat jual beli barang seperti beras, pakaian, dan peralatan rumah tangga.",
+  "jawaban": "Pasar barang",
+  "pembahasan": "Pasar tempat jual beli barang disebut pasar barang, salah satu jenis pasar berdasarkan faktor produksi yang diperjualbelikan. Pasar tenaga kerja memperjualbelikan jasa tenaga kerja, dan pasar modal memperjualbelikan surat berharga.",
+  "pilihan": [
+   "Pasar tenaga kerja",
+   "Pasar barang",
+   "Pasar modal",
+   "Pasar abstrak"
+  ]
+ },
+ {
+  "id": "IPS-33-A",
+  "indikator": 33,
+  "tipe": "Menjodohkan",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Mudah",
+  "soal": "Jodohkan kegiatan berikut dengan istilah yang tepat.\nKegiatan: Membeli barang dari luar negeri.",
+  "jawaban": "Impor",
+  "pembahasan": "Membeli barang dari luar negeri disebut impor. Ekspor adalah menjual barang ke luar negeri, sedangkan distribusi adalah menyalurkan barang di dalam negeri.",
+  "pilihan": [
+   "Ekspor",
+   "Impor",
+   "Distribusi",
+   "Konsumsi"
+  ]
+ },
+ {
+  "id": "IPS-33-B",
+  "indikator": 33,
+  "tipe": "Menjodohkan",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Mudah",
+  "soal": "Jodohkan istilah berikut dengan pengertiannya.\nIstilah: Barang yang dibeli dari luar negeri.",
+  "jawaban": "Barang impor",
+  "pembahasan": "Barang yang dibeli dari luar negeri disebut barang impor. Barang yang dijual ke luar negeri disebut barang ekspor, sedangkan barang buatan dalam negeri disebut barang domestik.",
+  "pilihan": [
+   "Barang ekspor",
+   "Barang impor",
+   "Barang domestik",
+   "Barang konsumsi"
+  ]
+ },
+ {
+  "id": "IPS-34-A",
+  "indikator": 34,
+  "tipe": "Menjodohkan",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Jodohkan pelaku berikut dengan istilah yang tepat.\nPelaku: Pihak yang membeli barang dari luar negeri.",
+  "jawaban": "Importir",
+  "pembahasan": "Pihak yang membeli barang dari luar negeri disebut importir. Eksportir adalah pihak yang menjual barang ke luar negeri, sedangkan distributor menyalurkan barang di dalam negeri.",
+  "pilihan": [
+   "Eksportir",
+   "Importir",
+   "Distributor",
+   "Konsumen dalam negeri"
+  ]
+ },
+ {
+  "id": "IPS-34-B",
+  "indikator": 34,
+  "tipe": "Menjodohkan",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Jodohkan pelaku berikut dengan istilah yang tepat.\nPelaku: Pihak yang menjual barang ke luar negeri.",
+  "jawaban": "Eksportir",
+  "pembahasan": "Pihak yang menjual barang ke luar negeri disebut eksportir. Importir adalah pihak yang membeli barang dari luar negeri, sedangkan distributor menyalurkan barang di dalam negeri.",
+  "pilihan": [
+   "Importir",
+   "Eksportir",
+   "Distributor",
+   "Produsen dalam negeri"
+  ]
+ },
+ {
+  "id": "IPS-35-A",
+  "indikator": 35,
+  "tipe": "Menjodohkan",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Jodohkan istilah berikut dengan pengertiannya.\nIstilah: Alat pembayaran internasional berupa valuta asing yang dimiliki suatu negara.",
+  "jawaban": "Devisa",
+  "pembahasan": "Alat pembayaran internasional berupa valuta asing disebut devisa. Devisa diperoleh antara lain dari hasil ekspor, pariwisata, dan pinjaman luar negeri.",
+  "pilihan": [
+   "Devisa",
+   "Bea masuk",
+   "Subsidi",
+   "Inflasi"
+  ]
+ },
+ {
+  "id": "IPS-35-B",
+  "indikator": 35,
+  "tipe": "Menjodohkan",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Jodohkan istilah berikut dengan pengertiannya.\nIstilah: Kekayaan negara dalam bentuk valuta asing yang disimpan oleh bank sentral.",
+  "jawaban": "Cadangan devisa",
+  "pembahasan": "Kekayaan negara dalam valuta asing yang disimpan bank sentral disebut cadangan devisa. Cadangan devisa dipakai antara lain untuk menjaga stabilitas nilai tukar dan membayar kewajiban luar negeri.",
+  "pilihan": [
+   "Cadangan devisa",
+   "Bea keluar",
+   "Utang dagang",
+   "Modal kerja"
+  ]
+ },
+ {
+  "id": "IPS-36-A",
+  "indikator": 36,
+  "tipe": "Isian Singkat",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Sebutkan empat pelaku ekonomi dalam kegiatan ekonomi!",
+  "jawaban": "Rumah tangga konsumen, rumah tangga produsen, pemerintah, luar negeri",
+  "pembahasan": "Empat pelaku ekonomi adalah rumah tangga konsumen, rumah tangga produsen (perusahaan), pemerintah, dan masyarakat luar negeri. Keempatnya saling berhubungan dalam kegiatan produksi, distribusi, dan konsumsi."
+ },
+ {
+  "id": "IPS-36-B",
+  "indikator": 36,
+  "tipe": "Isian Singkat",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Tuliskan empat pelaku ekonomi yang berperan dalam kegiatan ekonomi!",
+  "jawaban": "Rumah tangga konsumen, rumah tangga produsen, pemerintah, luar negeri",
+  "pembahasan": "Empat pelaku ekonomi adalah rumah tangga konsumen, rumah tangga produsen (perusahaan), pemerintah, dan masyarakat luar negeri. Jawaban yang baik menyebutkan keempat pelaku tersebut."
+ },
+ {
+  "id": "IPS-37-A",
+  "indikator": 37,
+  "tipe": "Isian Singkat",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Ibu membeli beras di pasar untuk kebutuhan makan keluarganya sehari-hari. Ibu berperan sebagai ...",
+  "jawaban": "Konsumen",
+  "pembahasan": "Ibu membeli beras untuk dipakai atau dikonsumsi keluarganya, jadi ia berperan sebagai konsumen. Produsen menghasilkan beras, distributor menyalurkannya, dan konsumen memakainya."
+ },
+ {
+  "id": "IPS-37-B",
+  "indikator": 37,
+  "tipe": "Isian Singkat",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Mudah",
+  "soal": "Ayah membeli sayur di pasar untuk dimasak dan dimakan bersama keluarga. Ayah sebagai anggota rumah tangga berperan sebagai ...",
+  "jawaban": "Rumah tangga konsumen",
+  "pembahasan": "Ayah membeli sayur untuk kebutuhan keluarganya, jadi ia berperan sebagai rumah tangga konsumen. Rumah tangga produsen menghasilkan barang, sedangkan rumah tangga konsumen memakai barang dan jasa."
+ },
+ {
+  "id": "IPS-38-A",
+  "indikator": 38,
+  "tipe": "Isian Singkat",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Seorang penjual menjual produknya melalui marketplace online dan pembeli memesan lewat aplikasi. Jenis pasar berdasarkan kegiatan tersebut adalah pasar ...",
+  "jawaban": "Pasar digital",
+  "pembahasan": "Penjualan melalui marketplace online adalah pasar digital, yaitu pasar yang transaksinya dilakukan lewat media elektronik atau internet. Pasar konkret mempertemukan penjual dan pembeli secara langsung."
+ },
+ {
+  "id": "IPS-38-B",
+  "indikator": 38,
+  "tipe": "Isian Singkat",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Mudah",
+  "soal": "Toko pakaian memasarkan bajunya lewat toko online di internet sehingga pembeli dari berbagai kota dapat memesannya. Jenis pasar tersebut adalah pasar ...",
+  "jawaban": "Pasar online",
+  "pembahasan": "Toko online di internet adalah pasar online (pasar digital), karena transaksinya dilakukan lewat internet tanpa penjual dan pembeli harus bertemu langsung."
+ },
+ {
+  "id": "IPS-39-A",
+  "indikator": 39,
+  "tipe": "Isian Singkat",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Mudah",
+  "soal": "Pungutan pemerintah terhadap barang impor disebut ...",
+  "jawaban": "Bea masuk",
+  "pembahasan": "Pungutan pemerintah atas barang yang masuk dari luar negeri disebut bea masuk. Pungutan atas barang yang keluar ke luar negeri disebut bea keluar."
+ },
+ {
+  "id": "IPS-39-B",
+  "indikator": 39,
+  "tipe": "Isian Singkat",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Mudah",
+  "soal": "Pemerintah mengenakan pungutan atas mobil yang diimpor dari Jepang. Pungutan tersebut disebut ...",
+  "jawaban": "Bea masuk",
+  "pembahasan": "Mobil yang diimpor dari Jepang dikenai pungutan karena masuk dari luar negeri, dan pungutan itu disebut bea masuk."
+ },
+ {
+  "id": "IPS-40-A",
+  "indikator": 40,
+  "tipe": "Isian Singkat",
+  "varian": "A",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Nilai ekspor suatu negara Rp500 miliar, sedangkan nilai impornya Rp400 miliar. Kondisi neraca perdagangan negara tersebut adalah ...",
+  "jawaban": "Surplus",
+  "pembahasan": "Ekspor lebih besar daripada impor (Rp500 miliar > Rp400 miliar), jadi neraca perdagangan mengalami surplus. Jika impor lebih besar daripada ekspor, kondisinya defisit."
+ },
+ {
+  "id": "IPS-40-B",
+  "indikator": 40,
+  "tipe": "Isian Singkat",
+  "varian": "B",
+  "materi": "Perdagangan internasional",
+  "level": "Sedang",
+  "soal": "Suatu negara mengekspor barang senilai Rp800 miliar dan mengimpor barang senilai Rp650 miliar. Kondisi neraca perdagangannya disebut ...",
+  "jawaban": "Surplus neraca perdagangan",
+  "pembahasan": "Nilai ekspor lebih besar daripada nilai impor, sehingga neraca perdagangan negara itu surplus. Lawannya, jika impor lebih besar daripada ekspor, disebut defisit neraca perdagangan."
+ },
+ {
+  "id": "IPS-41-A",
+  "indikator": 41,
+  "tipe": "Uraian",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sulit",
+  "soal": "Perhatikan diagram siklus ekonomi 4 sektor berikut. Gambarkan kembali diagram tersebut dan jelaskan aliran barang/jasa dan uang antara keempat sektor: Rumah Tangga Konsumen, Rumah Tangga Produsen (Perusahaan), Pemerintah, dan Luar Negeri.",
+  "jawaban": "Rumah Tangga Konsumen menyerahkan faktor produksi (tenaga kerja, tanah, modal, kewirausahaan) kepada Rumah Tangga Produsen dan menerima balas jasa berupa upah, sewa, bunga, dan laba; sebaliknya Rumah Tangga Produsen menyerahkan barang/jasa kepada Rumah Tangga Konsumen dan menerima uang pembayaran. Pemerintah menerima pajak dari rumah tangga dan perusahaan, lalu menyediakan barang/jasa publik dan subsidi; pemerintah juga berhubungan dengan luar negeri. Luar Negeri menerima ekspor dan membayar devisa, serta mengirim barang impor yang dibayar dengan devisa. Jadi keempat sektor saling berhubungan membentuk siklus tertutup.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan keempat sektor dan menjelaskan aliran dua arah antara Rumah Tangga Konsumen dan Rumah Tangga Produsen (faktor produksi dan balas jasa, serta barang/jasa dan uang), peran pemerintah (pajak, barang/jasa publik), dan peran luar negeri (ekspor, impor, devisa).",
+  "gambar": "assets/img/ips-41-a.svg"
+ },
+ {
+  "id": "IPS-41-B",
+  "indikator": 41,
+  "tipe": "Uraian",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sulit",
+  "soal": "Perhatikan diagram siklus ekonomi 4 sektor berikut. Gambarkan kembali diagram tersebut dan jelaskan peran Pemerintah dan Luar Negeri dalam siklus ekonomi, serta hubungannya dengan Rumah Tangga Konsumen dan Rumah Tangga Produsen.",
+  "jawaban": "Pemerintah memungut pajak dari Rumah Tangga Konsumen dan Rumah Tangga Produsen, lalu menggunakan pajak itu untuk menyediakan barang/jasa publik seperti jalan, sekolah, dan keamanan, serta memberikan subsidi. Rumah Tangga Konsumen menyerahkan faktor produksi kepada Rumah Tangga Produsen dan menerima upah, sewa, bunga, dan laba; Rumah Tangga Produsen menjual barang/jasa kepada Rumah Tangga Konsumen. Luar Negeri membeli barang ekspor dan membayarnya dengan devisa, serta menjual barang impor kepada dalam negeri. Dengan demikian pemerintah dan luar negeri melengkapi siklus antara rumah tangga konsumen dan produsen.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan keempat sektor, menjelaskan peran pemerintah (pajak dan penyediaan barang/jasa publik) dan peran luar negeri (ekspor dan impor), serta hubungannya dengan aliran faktor produksi, barang/jasa, dan uang antara Rumah Tangga Konsumen dan Rumah Tangga Produsen.",
+  "gambar": "assets/img/ips-41-b.svg"
+ },
+ {
+  "id": "IPS-42-A",
+  "indikator": 42,
+  "tipe": "Uraian",
+  "varian": "A",
+  "materi": "Pasar",
+  "level": "Sulit",
+  "soal": "Jelaskan perbedaan pasar konkret dengan pasar abstrak, lengkap dengan contohnya serta kelemahan dan kelebihan masing-masing!",
+  "jawaban": "Pasar konkret adalah pasar tempat penjual dan pembeli bertemu langsung dan barangnya ada di tempat, contohnya pasar tradisional dan pasar hewan; kelebihannya pembeli dapat melihat dan memilih barang secara langsung serta menawar harga, kelemahannya jangkauan pembeli terbatas dan membutuhkan waktu serta biaya untuk datang ke pasar. Pasar abstrak adalah pasar yang penjual dan pembeli tidak harus bertemu langsung dan barangnya tidak harus ada di tempat transaksi, contohnya pasar saham (bursa efek) dan pasar online; kelebihannya jangkauan luas dan transaksi cepat tanpa harus datang ke tempat, kelemahannya pembeli tidak dapat melihat barang secara langsung sehingga berisiko tertipu atau barang tidak sesuai harapan.",
+  "pembahasan": "Jawaban yang baik harus menjelaskan pengertian kedua pasar, memberi contoh masing-masing, serta menyebutkan kelebihan dan kekurangan pasar konkret dan pasar abstrak."
+ },
+ {
+  "id": "IPS-42-B",
+  "indikator": 42,
+  "tipe": "Uraian",
+  "varian": "B",
+  "materi": "Pasar",
+  "level": "Sulit",
+  "soal": "Bandingkan pasar konkret dan pasar abstrak dari segi cara transaksi dan keberadaan barangnya! Sebutkan contoh serta kelebihan dan kekurangan masing-masing!",
+  "jawaban": "Pasar konkret mempertemukan penjual dan pembeli secara langsung di satu tempat dan barang dagangannya ada di sana, contohnya pasar tradisional tempat ibu membeli sayur; kelebihannya barang dapat diperiksa langsung dan harga bisa ditawar, kelemahannya pembeli harus datang ke lokasi dan pilihan barang terbatas pada yang ada di pasar itu. Pasar abstrak tidak mengharuskan penjual dan pembeli bertemu dan barangnya tidak harus ada saat transaksi, contohnya jual beli saham di bursa efek dan belanja di marketplace online; kelebihannya pembeli dari mana saja dapat bertransaksi dengan cepat dan pilihan barang sangat banyak, kelemahannya pembeli tidak bisa memeriksa barang secara langsung dan harus berhati-hati terhadap penipuan.",
+  "pembahasan": "Jawaban yang baik harus membedakan cara transaksi dan keberadaan barang pada kedua pasar, memberi contoh masing-masing, serta menyebutkan kelebihan dan kekurangan keduanya."
+ },
+ {
+  "id": "IPS-43-A",
+  "indikator": 43,
+  "tipe": "Uraian",
+  "varian": "A",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Sebutkan dan jelaskan fungsi tiga lembaga keuangan bukan bank di Indonesia!",
+  "jawaban": "Tiga lembaga keuangan bukan bank di Indonesia antara lain: (1) Pegadaian, fungsinya memberikan pinjaman kepada masyarakat dengan jaminan barang bergerak seperti emas atau kendaraan; (2) Asuransi, fungsinya menanggung dan mengalihkan risiko kerugian tertanggung dengan sistem premi, misalnya asuransi jiwa dan asuransi kesehatan; (3) Koperasi simpan pinjam, fungsinya menghimpun simpanan dari anggota dan menyalurkannya sebagai pinjaman kepada anggota untuk modal usaha atau kebutuhan lainnya.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan tiga lembaga keuangan bukan bank dan menjelaskan fungsi masing-masing dengan benar. Lembaga keuangan bukan bank lainnya yang juga benar antara lain leasing dan dana pensiun."
+ },
+ {
+  "id": "IPS-43-B",
+  "indikator": 43,
+  "tipe": "Uraian",
+  "varian": "B",
+  "materi": "Lembaga keuangan",
+  "level": "Sedang",
+  "soal": "Sebutkan tiga lembaga keuangan bukan bank di Indonesia dan jelaskan fungsi masing-masing!",
+  "jawaban": "Tiga lembaga keuangan bukan bank di Indonesia antara lain: (1) Pegadaian, fungsinya menyalurkan pinjaman dengan jaminan barang seperti perhiasan dan kendaraan bermotor; (2) Leasing (perusahaan pembiayaan), fungsinya membiayai pembelian barang seperti kendaraan secara angsuran atau sewa guna usaha; (3) Dana pensiun, fungsinya menghimpun iuran dari peserta selama masa kerja dan membayarkannya kembali sebagai penghasilan setelah peserta pensiun.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan tiga lembaga keuangan bukan bank dan menjelaskan fungsi masing-masing dengan benar. Lembaga keuangan bukan bank lainnya yang juga benar antara lain asuransi dan koperasi simpan pinjam."
+ },
+ {
+  "id": "IPS-44-A",
+  "indikator": 44,
+  "tipe": "Uraian",
+  "varian": "A",
+  "materi": "Transformasi ekonomi digital",
+  "level": "Sulit",
+  "soal": "Jelaskan cara agar pelaku ekonomi tradisional dapat bertahan dalam era digitalisasi ekonomi!",
+  "jawaban": "Pelaku ekonomi tradisional dapat bertahan dengan memanfaatkan teknologi digital, antara lain: memasarkan produk melalui marketplace dan media sosial agar jangkauannya lebih luas; menerima pembayaran digital agar transaksi lebih mudah dan aman; meningkatkan kualitas produk dan pelayanan agar pembeli tetap setia; mengikuti pelatihan digital dan literasi keuangan agar mampu bersaing; serta bekerja sama dengan pelaku usaha lain dan memanfaatkan dukungan pemerintah seperti pelatihan UMKM. Dengan cara itu, usaha tradisional tidak tersingkir oleh persaingan digital.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan beberapa cara yang nyata dan masuk akal, misalnya pemasaran online, pembayaran digital, peningkatan kualitas dan pelayanan, serta peningkatan kemampuan digital pelaku usaha."
+ },
+ {
+  "id": "IPS-44-B",
+  "indikator": 44,
+  "tipe": "Uraian",
+  "varian": "B",
+  "materi": "Transformasi ekonomi digital",
+  "level": "Sulit",
+  "soal": "Analisislah upaya yang dapat dilakukan pedagang tradisional agar tetap bertahan di tengah perkembangan ekonomi digital!",
+  "jawaban": "Pedagang tradisional dapat bertahan antara lain dengan: membuka toko online atau berjualan di marketplace sambil tetap melayani pembeli di pasar; mempromosikan dagangannya lewat media sosial dan foto produk yang menarik; menyediakan pembayaran nontunai seperti QRIS agar pembeli lebih mudah bertransaksi; menjaga keunggulan pasar tradisional seperti harga yang bisa ditawar dan hubungan baik dengan pelanggan; serta memperbaiki kualitas barang dan kebersihan tempat berjualan. Upaya-upaya itu menggabungkan kelebihan cara tradisional dengan kemudahan teknologi digital.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan beberapa upaya yang nyata dan masuk akal, misalnya berjualan online, promosi di media sosial, pembayaran digital, serta mempertahankan kelebihan pasar tradisional."
+ },
+ {
+  "id": "IPS-45-A",
+  "indikator": 45,
+  "tipe": "Uraian",
+  "varian": "A",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Tuliskan faktor-faktor yang mempengaruhi penawaran dan jelaskan masing-masing secara singkat!",
+  "jawaban": "Faktor-faktor yang mempengaruhi penawaran antara lain: (1) harga barang itu sendiri — jika harga naik, produsen terdorong menawarkan lebih banyak; (2) biaya produksi atau harga faktor produksi — jika biaya naik, penawaran berkurang; (3) teknologi — teknologi yang lebih baik membuat produksi lebih efisien sehingga penawaran bertambah; (4) jumlah produsen — semakin banyak produsen, semakin besar penawaran; (5) kebijakan pemerintah — pajak dapat mengurangi penawaran, sedangkan subsidi dapat menambah penawaran; (6) harga barang lain dan ekspektasi harga di masa depan.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan minimal empat faktor yang mempengaruhi penawaran beserta penjelasan singkatnya, misalnya harga barang, biaya produksi, teknologi, jumlah produsen, dan kebijakan pemerintah."
+ },
+ {
+  "id": "IPS-45-B",
+  "indikator": 45,
+  "tipe": "Uraian",
+  "varian": "B",
+  "materi": "Kegiatan ekonomi",
+  "level": "Sedang",
+  "soal": "Sebutkan dan jelaskan faktor-faktor yang dapat mempengaruhi jumlah barang yang ditawarkan produsen!",
+  "jawaban": "Jumlah barang yang ditawarkan dipengaruhi antara lain oleh: (1) harga barang — harga yang tinggi mendorong produsen menawarkan lebih banyak barang; (2) harga faktor produksi seperti upah dan bahan baku — jika harganya naik, biaya produksi naik dan penawaran berkurang; (3) kemajuan teknologi — teknologi baru menurunkan biaya dan menambah penawaran; (4) jumlah produsen di pasar — bertambahnya produsen menambah total penawaran; (5) pajak dan subsidi — pajak menaikkan biaya sehingga penawaran berkurang, sedangkan subsidi menurunkannya sehingga penawaran bertambah; (6) perkiraan harga di masa depan — jika produsen memperkirakan harga akan naik, ia dapat menahan barang untuk dijual nanti.",
+  "pembahasan": "Jawaban yang baik harus menyebutkan minimal empat faktor yang mempengaruhi penawaran beserta penjelasan singkatnya, misalnya harga barang, harga faktor produksi, teknologi, jumlah produsen, dan kebijakan pemerintah."
+ }
+]

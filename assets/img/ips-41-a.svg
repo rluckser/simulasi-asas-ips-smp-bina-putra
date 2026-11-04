@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" width="600" height="480" role="img">
+<title>Siklus ekonomi 4 sektor — varian A</title>
+<rect x="0" y="0" width="600" height="480" fill="#ffffff"/>
+<defs>
+<marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#7c2d12"/></marker>
+<marker id="arrB" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#1d4ed8"/></marker>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1f2a37">
+<text x="300" y="24" text-anchor="middle" font-size="17" font-weight="bold" fill="#7c2d12">Siklus Ekonomi 4 Sektor</text>
+<rect x="20" y="40" width="260" height="90" rx="10" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+<text x="150" y="72" text-anchor="middle" font-weight="bold" font-size="14">Rumah Tangga Konsumen</text>
+<text x="150" y="94" text-anchor="middle" font-size="12">Pemilik faktor produksi</text>
+<text x="150" y="112" text-anchor="middle" font-size="12">Pengguna barang / jasa</text>
+<rect x="320" y="40" width="260" height="90" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="450" y="72" text-anchor="middle" font-weight="bold" font-size="14">Rumah Tangga Produsen</text>
+<text x="450" y="94" text-anchor="middle" font-size="12">(Perusahaan)</text>
+<text x="450" y="112" text-anchor="middle" font-size="12">Penghasil barang / jasa</text>
+<rect x="20" y="340" width="260" height="90" rx="10" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+<text x="150" y="372" text-anchor="middle" font-weight="bold" font-size="14">Pemerintah</text>
+<text x="150" y="394" text-anchor="middle" font-size="12">Pajak</text>
+<text x="150" y="412" text-anchor="middle" font-size="12">Barang / jasa publik</text>
+<rect x="320" y="340" width="260" height="90" rx="10" fill="#dcfce7" stroke="#166534" stroke-width="2"/>
+<text x="450" y="372" text-anchor="middle" font-weight="bold" font-size="14">Luar Negeri</text>
+<text x="450" y="394" text-anchor="middle" font-size="12">Ekspor — Impor</text>
+<text x="450" y="412" text-anchor="middle" font-size="12">Devisa</text>
+<line x1="282" y1="68" x2="316" y2="68" stroke="#7c2d12" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="58" text-anchor="middle" font-size="12" font-weight="bold">Faktor produksi</text>
+<line x1="318" y1="102" x2="284" y2="102" stroke="#7c2d12" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="124" text-anchor="middle" font-size="12" font-weight="bold">Balas jasa</text>
+<line x1="282" y1="205" x2="316" y2="205" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="300" y="195" text-anchor="middle" font-size="12" font-weight="bold">Barang / jasa</text>
+<line x1="318" y1="245" x2="284" y2="245" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arrB)"/>
+<text x="300" y="267" text-anchor="middle" font-size="12" font-weight="bold">Uang pembayaran</text>
+<line x1="110" y1="132" x2="110" y2="336" stroke="#92400e" stroke-width="2" marker-end="url(#arr)"/>
+<text x="118" y="235" font-size="12" font-weight="bold">Pajak</text>
+<line x1="190" y1="338" x2="190" y2="134" stroke="#92400e" stroke-width="2" marker-end="url(#arr)"/>
+<text x="198" y="235" font-size="12" font-weight="bold">Barang / jasa publik</text>
+<line x1="410" y1="132" x2="410" y2="336" stroke="#166534" stroke-width="2" marker-end="url(#arr)"/>
+<text x="418" y="235" font-size="12" font-weight="bold">Ekspor</text>
+<line x1="490" y1="338" x2="490" y2="134" stroke="#166534" stroke-width="2" marker-end="url(#arr)"/>
+<text x="498" y="235" font-size="12" font-weight="bold">Impor</text>
+<line x1="282" y1="368" x2="316" y2="368" stroke="#7c2d12" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="358" text-anchor="middle" font-size="12" font-weight="bold">Pajak / kebijakan</text>
+<line x1="318" y1="402" x2="284" y2="402" stroke="#7c2d12" stroke-width="2" marker-end="url(#arr)"/>
+<text x="300" y="424" text-anchor="middle" font-size="12" font-weight="bold">Devisa</text>
+<text x="300" y="462" text-anchor="middle" font-size="12" fill="#4b5563">Panah menunjukkan arah aliran antara keempat sektor.</text>
+</g>
+</svg>

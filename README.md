@@ -3,6 +3,8 @@
 Website tes soal prediksi ASAS — IPS Kelas VIII, ASAS Ganjil 2026/2027,
 berdasarkan kisi-kisi MGMP IPS SMP Kabupaten Lampung Tengah.
 
+**Dibuat oleh Jelly Dharmawan S.Pd.**
+
 - **45 soal per sesi**, waktu **120 menit** (timer hitung mundur, otomatis mengumpulkan saat habis)
 - **Bank soal 90 soal**: 2 varian (A/B) untuk tiap indikator 1–45. Tiap sesi diambil 1 varian acak per indikator, lalu urutan soal diacak di dalam tiap jenis soal dan pilihan jawaban PG diacak.
 - Urutan soal mengikuti kisi-kisi: Pilihan Jamak (1–25), Benar-Salah (26–30), Menjodohkan (31–35), Isian Singkat (36–40), Uraian (41–45).

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "IPS9-01-A",
+    "indikator": 1,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Perhatikan pernyataan berikut. \"Sejarah adalah ilmu yang mempelajari peristiwa masa lampau kehidupan manusia berdasarkan bukti-bukti yang dapat dipertanggungjawabkan.\" Pernyataan tersebut merupakan pengertian dari ilmu...",
+    "jawaban": "Sejarah",
+    "pembahasan": "Sejarah adalah ilmu yang mempelajari peristiwa masa lampau kehidupan manusia berdasarkan bukti-bukti. Geografi mempelajari permukaan bumi, ekonomi mempelajari kegiatan ekonomi, dan sosiologi mempelajari masyarakat.",
+    "pilihan": [
+      "Sejarah",
+      "Geografi",
+      "Ekonomi",
+      "Sosiologi"
+    ]
+  },
+  {
+    "id": "IPS9-01-B",
+    "indikator": 1,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Rani membaca buku tentang perjuangan rakyat pada masa penjajahan. Kegiatan Rani mempelajari peristiwa masa lampau tersebut termasuk kajian ilmu...",
+    "jawaban": "Sejarah",
+    "pembahasan": "Mempelajari peristiwa masa lampau kehidupan manusia adalah kajian ilmu sejarah. Fisika mempelajari benda dan gerak, kimia mempelajari zat, dan matematika mempelajari bilangan.",
+    "pilihan": [
+      "Fisika",
+      "Sejarah",
+      "Kimia",
+      "Matematika"
+    ]
+  },
+  {
+    "id": "IPS9-02-A",
+    "indikator": 2,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Berikut ini yang merupakan ciri-ciri sejarah adalah...",
+    "jawaban": "Mempelajari peristiwa masa lampau yang benar-benar terjadi",
+    "pembahasan": "Sejarah mempelajari peristiwa masa lampau yang sungguh-sungguh terjadi dan memiliki bukti. Peristiwa yang akan terjadi, khayalan, atau yang belum terjadi bukan objek sejarah.",
+    "pilihan": [
+      "Mempelajari peristiwa masa lampau yang benar-benar terjadi",
+      "Mempelajari peristiwa yang akan terjadi",
+      "Mempelajari peristiwa khayalan",
+      "Mempelajari peristiwa yang belum terjadi"
+    ]
+  },
+  {
+    "id": "IPS9-02-B",
+    "indikator": 2,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Sejarah mempelajari peristiwa yang...",
+    "jawaban": "Sungguh-sungguh terjadi di masa lampau",
+    "pembahasan": "Peristiwa sejarah adalah peristiwa yang sungguh-sungguh terjadi di masa lampau dan dapat dibuktikan. Peristiwa yang hanya diramalkan, berupa dongeng, atau tanpa bukti bukan peristiwa sejarah.",
+    "pilihan": [
+      "Hanya diramalkan",
+      "Sungguh-sungguh terjadi di masa lampau",
+      "Berupa dongeng",
+      "Tidak memiliki bukti"
+    ]
+  },
+  {
+    "id": "IPS9-03-A",
+    "indikator": 3,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Seorang sejarawan menulis peristiwa seperti apa adanya berdasarkan bukti, tanpa memihak salah satu pihak. Sikap tersebut menunjukkan sejarah bersifat...",
+    "jawaban": "Objektif",
+    "pembahasan": "Sejarah bersifat objektif, artinya ditulis sesuai fakta dan bukti, tanpa memihak. Subjektif berarti dipengaruhi pendapat pribadi, sedangkan khayalan dan ramalan bukan sifat ilmu sejarah.",
+    "pilihan": [
+      "Subjektif",
+      "Objektif",
+      "Khayalan",
+      "Ramalan"
+    ]
+  },
+  {
+    "id": "IPS9-03-B",
+    "indikator": 3,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Dalam menulis sejarah, seorang sejarawan tidak boleh menambahkan pendapat pribadi yang mengubah fakta. Hal ini karena sejarah bersifat...",
+    "jawaban": "Objektif",
+    "pembahasan": "Sejarah bersifat objektif sehingga penulisannya harus sesuai dengan fakta dan bukti. Menambahkan pendapat pribadi yang mengubah fakta berarti tidak objektif; imajinatif, subjektif, dan fiktif bertentangan dengan sifat ini.",
+    "pilihan": [
+      "Imajinatif",
+      "Subjektif",
+      "Fiktif",
+      "Objektif"
+    ]
+  },
+  {
+    "id": "IPS9-04-A",
+    "indikator": 4,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Sejarah disebut ilmu yang empiris karena...",
+    "jawaban": "Didasarkan pada pengalaman dan bukti nyata dari peristiwa yang terjadi",
+    "pembahasan": "Sejarah bersifat empiris, artinya didasarkan pada pengalaman dan bukti nyata, seperti prasasti dan dokumen. Khayalan, ramalan masa depan, dan dongeng bukan dasar ilmu sejarah.",
+    "pilihan": [
+      "Didasarkan pada khayalan penulis",
+      "Didasarkan pada ramalan masa depan",
+      "Didasarkan pada pengalaman dan bukti nyata dari peristiwa yang terjadi",
+      "Didasarkan pada cerita dongeng"
+    ]
+  },
+  {
+    "id": "IPS9-04-B",
+    "indikator": 4,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Untuk membuktikan suatu peristiwa sejarah, sejarawan menggunakan bukti berupa prasasti, dokumen, dan peninggalan. Cara ini menunjukkan sejarah bersifat...",
+    "jawaban": "Empiris",
+    "pembahasan": "Menggunakan bukti nyata untuk membuktikan peristiwa menunjukkan sejarah bersifat empiris. Fiktif berarti khayalan, subjektif berarti dipengaruhi pendapat pribadi, dan mitos berarti cerita khayalan.",
+    "pilihan": [
+      "Fiktif",
+      "Empiris",
+      "Subjektif",
+      "Mitos"
+    ]
+  },
+  {
+    "id": "IPS9-05-A",
+    "indikator": 5,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Unsur-unsur sejarah terdiri atas...",
+    "jawaban": "Manusia, ruang, dan waktu",
+    "pembahasan": "Unsur sejarah adalah manusia (pelaku), ruang (tempat), dan waktu (kapan terjadinya). Air, udara, tanah, api, dan angin bukan unsur sejarah.",
+    "pilihan": [
+      "Manusia, air, dan udara",
+      "Ruang, tanah, dan api",
+      "Manusia, ruang, dan waktu",
+      "Waktu, angin, dan api"
+    ]
+  },
+  {
+    "id": "IPS9-05-B",
+    "indikator": 5,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Peristiwa sejarah selalu melibatkan manusia, terjadi di suatu tempat, dan pada waktu tertentu. Pernyataan tersebut menunjukkan unsur sejarah, yaitu...",
+    "jawaban": "Manusia, ruang, dan waktu",
+    "pembahasan": "Setiap peristiwa sejarah melibatkan manusia sebagai pelaku, ruang sebagai tempat, dan waktu sebagai saat terjadinya. Ketiganya merupakan unsur sejarah yang tidak dapat dipisahkan.",
+    "pilihan": [
+      "Manusia, tanah, dan air",
+      "Manusia, ruang, dan waktu",
+      "Ruang, waktu, dan udara",
+      "Manusia, api, dan waktu"
+    ]
+  },
+  {
+    "id": "IPS9-06-A",
+    "indikator": 6,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Segala sesuatu yang dapat digunakan untuk mengetahui peristiwa masa lampau disebut...",
+    "jawaban": "Sumber sejarah",
+    "pembahasan": "Sumber sejarah adalah segala sesuatu yang dapat digunakan untuk mengetahui peristiwa masa lampau, misalnya prasasti dan dokumen. Sumber daya alam, sumber energi, dan sumber air pengertiannya berbeda.",
+    "pilihan": [
+      "Sumber daya alam",
+      "Sumber sejarah",
+      "Sumber energi",
+      "Sumber air"
+    ]
+  },
+  {
+    "id": "IPS9-06-B",
+    "indikator": 6,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Mudah",
+    "soal": "Prasasti, dokumen, dan benda peninggalan dapat dijadikan bahan untuk mempelajari masa lampau karena benda-benda tersebut merupakan...",
+    "jawaban": "Sumber sejarah",
+    "pembahasan": "Prasasti, dokumen, dan benda peninggalan merupakan sumber sejarah, yaitu bahan yang digunakan untuk mengetahui peristiwa masa lampau. Fossil adalah sisa makhluk hidup purba, sedangkan peta dan globe adalah alat bantu geografi.",
+    "pilihan": [
+      "Fosil",
+      "Peta",
+      "Sumber sejarah",
+      "Globe"
+    ]
+  },
+  {
+    "id": "IPS9-07-A",
+    "indikator": 7,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Prasasti yang dibuat pada masa suatu kerajaan berdiri merupakan contoh sumber...",
+    "jawaban": "Primer",
+    "pembahasan": "Prasasti yang dibuat pada masa peristiwa itu berlangsung adalah sumber primer, yaitu sumber asli yang sezaman dengan peristiwa. Sumber sekunder adalah sumber yang mengolah sumber primer.",
+    "pilihan": [
+      "Sekunder",
+      "Primer",
+      "Tersier",
+      "Dongeng"
+    ]
+  },
+  {
+    "id": "IPS9-07-B",
+    "indikator": 7,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Seorang pelaku peristiwa menulis catatan harian pada masa peristiwa itu terjadi. Catatan tersebut termasuk sumber...",
+    "jawaban": "Primer",
+    "pembahasan": "Catatan harian yang ditulis pelaku pada masa peristiwa terjadi adalah sumber primer karena dibuat sezaman dengan peristiwa. Buku sejarah yang ditulis belakangan termasuk sumber sekunder.",
+    "pilihan": [
+      "Sekunder",
+      "Primer",
+      "Mitos",
+      "Legenda"
+    ]
+  },
+  {
+    "id": "IPS9-08-A",
+    "indikator": 8,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Untuk mengetahui peristiwa Sumpah Pemuda, sejarawan dapat menggunakan teks asli hasil rumusan para pemuda pada tahun 1928. Teks asli tersebut termasuk sumber...",
+    "jawaban": "Primer",
+    "pembahasan": "Teks asli yang dibuat pada masa peristiwa itu terjadi adalah sumber primer. Jika teks itu ditulis ulang dan diolah dalam buku masa kini, barulah menjadi sumber sekunder.",
+    "pilihan": [
+      "Sekunder",
+      "Tersier",
+      "Primer",
+      "Fiktif"
+    ]
+  },
+  {
+    "id": "IPS9-08-B",
+    "indikator": 8,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Sebuah foto asli yang diambil pada saat Proklamasi Kemerdekaan tahun 1945 merupakan sumber...",
+    "jawaban": "Primer",
+    "pembahasan": "Foto asli yang diambil pada saat peristiwa terjadi adalah sumber primer karena dibuat sezaman dengan peristiwa dan menjadi bukti langsung. Foto tiruan atau lukisan yang dibuat jauh sesudahnya tidak termasuk sumber primer.",
+    "pilihan": [
+      "Sekunder",
+      "Primer",
+      "Dongeng",
+      "Mitos"
+    ]
+  },
+  {
+    "id": "IPS9-09-A",
+    "indikator": 9,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Buku sejarah yang ditulis sejarawan masa kini berdasarkan prasasti dan dokumen lama termasuk sumber...",
+    "jawaban": "Sekunder",
+    "pembahasan": "Buku sejarah masa kini yang mengolah prasasti dan dokumen lama adalah sumber sekunder, karena bukan dibuat pada masa peristiwa berlangsung. Prasasti adalah contoh sumber primer.",
+    "pilihan": [
+      "Primer",
+      "Sekunder",
+      "Prasasti",
+      "Fosil"
+    ]
+  },
+  {
+    "id": "IPS9-09-B",
+    "indikator": 9,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep dasar ilmu Sejarah",
+    "level": "Sedang",
+    "soal": "Artikel di majalah sejarah yang menjelaskan suatu peristiwa berdasarkan buku-buku sejarah sebelumnya termasuk sumber...",
+    "jawaban": "Sekunder",
+    "pembahasan": "Artikel yang menjelaskan peristiwa berdasarkan buku-buku sejarah sebelumnya adalah sumber sekunder, karena mengolah sumber yang sudah ada. Dokumen asli dan catatan pelaku peristiwa termasuk sumber primer.",
+    "pilihan": [
+      "Primer",
+      "Sekunder",
+      "Dokumen asli",
+      "Catatan pelaku"
+    ]
+  },
+  {
+    "id": "IPS9-10-A",
+    "indikator": 10,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Manusia dikatakan sebagai subjek sejarah karena manusia...",
+    "jawaban": "Berperan sebagai pelaku yang membuat peristiwa sejarah",
+    "pembahasan": "Manusia adalah subjek sejarah karena menjadi pelaku yang membuat peristiwa sejarah. Menjadi bahan penelitian adalah peran manusia sebagai objek sejarah.",
+    "pilihan": [
+      "Hanya menjadi bahan penelitian sejarah",
+      "Berperan sebagai pelaku yang membuat peristiwa sejarah",
+      "Tidak terlibat dalam peristiwa sejarah",
+      "Hanya menonton peristiwa sejarah"
+    ]
+  },
+  {
+    "id": "IPS9-10-B",
+    "indikator": 10,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Para pahlawan yang berjuang merebut kemerdekaan adalah contoh manusia sebagai subjek sejarah karena mereka...",
+    "jawaban": "Pelaku yang membuat peristiwa sejarah",
+    "pembahasan": "Para pahlawan adalah pelaku yang membuat peristiwa sejarah, sehingga mereka adalah subjek sejarah. Penonton dan bahan penelitian bukan peran subjek sejarah.",
+    "pilihan": [
+      "Penonton peristiwa sejarah",
+      "Bahan penelitian sejarah",
+      "Pelaku yang membuat peristiwa sejarah",
+      "Pencatat peristiwa saja"
+    ]
+  },
+  {
+    "id": "IPS9-11-A",
+    "indikator": 11,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Tanpa manusia, tidak akan ada peristiwa sejarah. Hal ini menunjukkan bahwa manusia...",
+    "jawaban": "Memegang peranan penting dalam peristiwa sejarah",
+    "pembahasan": "Manusia memegang peranan penting dalam sejarah karena peristiwa sejarah dibuat oleh manusia. Manusia bukan hanya pengamat atau pengganggu sejarah.",
+    "pilihan": [
+      "Tidak penting dalam sejarah",
+      "Hanya pengamat sejarah",
+      "Memegang peranan penting dalam peristiwa sejarah",
+      "Pengganggu sejarah"
+    ]
+  },
+  {
+    "id": "IPS9-11-B",
+    "indikator": 11,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Perubahan besar dalam sejarah selalu diawali oleh tindakan manusia, misalnya perjuangan dan penemuan baru. Hal ini membuktikan bahwa manusia...",
+    "jawaban": "Sangat penting dalam peristiwa sejarah",
+    "pembahasan": "Perjuangan dan penemuan baru yang mengubah sejarah dilakukan oleh manusia, sehingga manusia sangat penting dalam peristiwa sejarah. Tanpa tindakan manusia, perubahan besar itu tidak akan terjadi.",
+    "pilihan": [
+      "Tidak berpengaruh pada sejarah",
+      "Sangat penting dalam peristiwa sejarah",
+      "Hanya mencatat sejarah",
+      "Penghambat perubahan"
+    ]
+  },
+  {
+    "id": "IPS9-12-A",
+    "indikator": 12,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Ketika sejarawan meneliti kehidupan masyarakat pada masa kerajaan, masyarakat tersebut menjadi ... sejarah.",
+    "jawaban": "Objek",
+    "pembahasan": "Masyarakat yang kehidupannya diteliti oleh sejarawan menjadi objek sejarah. Subjek adalah pelaku yang membuat peristiwa, sedangkan pelaku dan saksi bukan istilah untuk bahan yang diteliti.",
+    "pilihan": [
+      "Subjek",
+      "Pelaku",
+      "Saksi",
+      "Objek"
+    ]
+  },
+  {
+    "id": "IPS9-12-B",
+    "indikator": 12,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Manusia dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Manusia dikatakan sebagai objek sejarah apabila...",
+    "jawaban": "Kehidupannya menjadi bahan yang dipelajari dalam sejarah",
+    "pembahasan": "Manusia menjadi objek sejarah ketika kehidupannya menjadi bahan yang dipelajari. Memimpin peristiwa atau membuat keputusan besar justru menunjukkan manusia sebagai subjek sejarah.",
+    "pilihan": [
+      "Ia memimpin suatu peristiwa",
+      "Kehidupannya menjadi bahan yang dipelajari dalam sejarah",
+      "Ia membuat suatu keputusan besar",
+      "Ia menulis sejarah"
+    ]
+  },
+  {
+    "id": "IPS9-13-A",
+    "indikator": 13,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Dalam ilmu sejarah, ruang adalah...",
+    "jawaban": "Tempat terjadinya suatu peristiwa sejarah",
+    "pembahasan": "Ruang dalam sejarah adalah tempat terjadinya suatu peristiwa. Waktu adalah kapan terjadinya, pelaku adalah yang melakukan, dan akibat adalah hasil dari peristiwa.",
+    "pilihan": [
+      "Waktu terjadinya peristiwa",
+      "Pelaku peristiwa sejarah",
+      "Tempat terjadinya suatu peristiwa sejarah",
+      "Akibat peristiwa sejarah"
+    ]
+  },
+  {
+    "id": "IPS9-13-B",
+    "indikator": 13,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Peristiwa Proklamasi terjadi di Jakarta. Kata Jakarta dalam peristiwa itu menunjukkan unsur...",
+    "jawaban": "Ruang",
+    "pembahasan": "Jakarta adalah tempat terjadinya peristiwa Proklamasi, sehingga menunjukkan unsur ruang. Waktu ditunjukkan oleh tanggal, sedangkan manusia ditunjukkan oleh pelakunya.",
+    "pilihan": [
+      "Waktu",
+      "Manusia",
+      "Perubahan",
+      "Ruang"
+    ]
+  },
+  {
+    "id": "IPS9-14-A",
+    "indikator": 14,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Pertempuran di Surabaya pada 10 November 1945 tidak dapat dipisahkan dari Kota Surabaya sebagai tempat terjadinya. Hal ini menunjukkan pentingnya unsur...",
+    "jawaban": "Ruang",
+    "pembahasan": "Kota Surabaya sebagai tempat terjadinya pertempuran menunjukkan unsur ruang. Tanpa mengetahui tempatnya, peristiwa itu sulit dipahami secara utuh.",
+    "pilihan": [
+      "Waktu",
+      "Ruang",
+      "Manusia",
+      "Perubahan"
+    ]
+  },
+  {
+    "id": "IPS9-14-B",
+    "indikator": 14,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Mudah",
+    "soal": "Setiap peristiwa sejarah pasti terjadi di suatu tempat. Tempat tersebut dalam sejarah disebut...",
+    "jawaban": "Ruang",
+    "pembahasan": "Tempat terjadinya peristiwa sejarah disebut ruang. Waktu adalah kapan terjadinya, pelaku adalah yang melakukan, dan peristiwa adalah kejadiannya sendiri.",
+    "pilihan": [
+      "Waktu",
+      "Pelaku",
+      "Ruang",
+      "Peristiwa"
+    ]
+  },
+  {
+    "id": "IPS9-15-A",
+    "indikator": 15,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Memahami tempat suatu peristiwa terjadi membantu kita memahami...",
+    "jawaban": "Mengapa peristiwa itu terjadi dan bagaimana pengaruhnya",
+    "pembahasan": "Tempat terjadinya peristiwa memengaruhi mengapa peristiwa itu terjadi dan bagaimana pengaruhnya, misalnya letak daerah yang strategis. Nama pelaku dan jumlah korban tidak ditentukan oleh tempat semata.",
+    "pilihan": [
+      "Nama pelaku peristiwa",
+      "Mengapa peristiwa itu terjadi dan bagaimana pengaruhnya",
+      "Jumlah korban peristiwa",
+      "Masa depan peristiwa itu"
+    ]
+  },
+  {
+    "id": "IPS9-15-B",
+    "indikator": 15,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Ruang dalam konteks Sejarah",
+    "level": "Sedang",
+    "soal": "Sejarawan selalu mencatat tempat peristiwa terjadi karena ruang...",
+    "jawaban": "Membantu memahami peristiwa secara utuh",
+    "pembahasan": "Ruang membantu memahami peristiwa secara utuh karena tempat memengaruhi jalannya peristiwa. Ruang bukan sekadar hiasan dan tidak menggantikan unsur waktu.",
+    "pilihan": [
+      "Tidak berpengaruh pada peristiwa",
+      "Hanya hiasan dalam sejarah",
+      "Membantu memahami peristiwa secara utuh",
+      "Menggantikan unsur waktu"
+    ]
+  },
+  {
+    "id": "IPS9-16-A",
+    "indikator": 16,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Mudah",
+    "soal": "Waktu dalam sejarah penting karena dengan waktu kita dapat mengetahui...",
+    "jawaban": "Kapan suatu peristiwa terjadi dan urutan peristiwa",
+    "pembahasan": "Waktu menunjukkan kapan peristiwa terjadi dan bagaimana urutannya dengan peristiwa lain. Tempat ditunjukkan oleh ruang, sedangkan pelaku dan alasan tidak ditentukan oleh waktu semata.",
+    "pilihan": [
+      "Tempat suatu peristiwa terjadi",
+      "Pelaku suatu peristiwa",
+      "Kapan suatu peristiwa terjadi dan urutan peristiwa",
+      "Alasan suatu peristiwa"
+    ]
+  },
+  {
+    "id": "IPS9-16-B",
+    "indikator": 16,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Mudah",
+    "soal": "Tanpa keterangan waktu, kita akan sulit membedakan peristiwa yang terjadi lebih dahulu dan yang terjadi kemudian. Hal ini menunjukkan waktu...",
+    "jawaban": "Sangat penting dalam sejarah",
+    "pembahasan": "Keterangan waktu sangat penting dalam sejarah karena menentukan urutan peristiwa. Waktu bukan hanya hiasan dan tidak menggantikan unsur ruang.",
+    "pilihan": [
+      "Hanya hiasan dalam sejarah",
+      "Sangat penting dalam sejarah",
+      "Tidak diperlukan dalam sejarah",
+      "Menggantikan unsur ruang"
+    ]
+  },
+  {
+    "id": "IPS9-17-A",
+    "indikator": 17,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Mudah",
+    "soal": "Tahun 1945 dalam peristiwa Proklamasi menunjukkan unsur...",
+    "jawaban": "Waktu",
+    "pembahasan": "Tahun 1945 adalah keterangan kapan peristiwa Proklamasi terjadi, sehingga menunjukkan unsur waktu. Ruang adalah Jakarta, sedangkan manusia adalah pelakunya.",
+    "pilihan": [
+      "Ruang",
+      "Manusia",
+      "Perubahan",
+      "Waktu"
+    ]
+  },
+  {
+    "id": "IPS9-17-B",
+    "indikator": 17,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Mudah",
+    "soal": "Jika kita membaca kalimat \"Peristiwa itu terjadi pada 17 Agustus 1945\", keterangan tanggal tersebut menunjukkan unsur...",
+    "jawaban": "Waktu",
+    "pembahasan": "Tanggal 17 Agustus 1945 adalah keterangan waktu terjadinya peristiwa. Keterangan tempat adalah ruang, sedangkan pelaku adalah manusia.",
+    "pilihan": [
+      "Ruang",
+      "Manusia",
+      "Waktu",
+      "Keberlanjutan"
+    ]
+  },
+  {
+    "id": "IPS9-18-A",
+    "indikator": 18,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Sedang",
+    "soal": "Urutan peristiwa sejarah berdasarkan waktu terjadinya disebut...",
+    "jawaban": "Kronologi",
+    "pembahasan": "Kronologi adalah urutan peristiwa berdasarkan waktu terjadinya. Topografi mempelajari bentuk permukaan bumi, geografi mempelajari bumi, dan demografi mempelajari penduduk.",
+    "pilihan": [
+      "Topografi",
+      "Kronologi",
+      "Geografi",
+      "Demografi"
+    ]
+  },
+  {
+    "id": "IPS9-18-B",
+    "indikator": 18,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Konsep waktu dan kronologi",
+    "level": "Sedang",
+    "soal": "Sebelum mempelajari sebab dan akibat suatu peristiwa, sejarawan menyusun peristiwa-peristiwa secara berurutan menurut waktu. Susunan tersebut disebut...",
+    "jawaban": "Kronologi",
+    "pembahasan": "Menyusun peristiwa menurut waktu terjadinya disebut kronologi. Dengan kronologi, sejarawan dapat melihat peristiwa mana yang lebih dahulu dan memahami sebab-akibatnya.",
+    "pilihan": [
+      "Kronologi",
+      "Toponimi",
+      "Arkeologi",
+      "Genealogi"
+    ]
+  },
+  {
+    "id": "IPS9-19-A",
+    "indikator": 19,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Perubahan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Perubahan dalam sejarah berarti...",
+    "jawaban": "Keadaan masyarakat yang berbeda dari waktu ke waktu",
+    "pembahasan": "Perubahan berarti keadaan masyarakat yang berbeda dari waktu ke waktu, misalnya cara hidup dan alat yang digunakan. Keadaan yang selalu sama atau berhenti bukan perubahan.",
+    "pilihan": [
+      "Keadaan masyarakat yang selalu sama",
+      "Keadaan masyarakat yang berhenti",
+      "Keadaan masyarakat yang berbeda dari waktu ke waktu",
+      "Keadaan masyarakat yang hilang"
+    ]
+  },
+  {
+    "id": "IPS9-19-B",
+    "indikator": 19,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Perubahan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Cara masyarakat bertani berubah dari menggunakan cangkul menjadi menggunakan traktor. Hal itu merupakan contoh...",
+    "jawaban": "Perubahan",
+    "pembahasan": "Cara bertani yang berubah dari cangkul menjadi traktor adalah contoh perubahan dalam sejarah. Tradisi yang tetap dilakukan justru contoh keberlanjutan.",
+    "pilihan": [
+      "Keberlanjutan",
+      "Pengulangan",
+      "Kemunduran",
+      "Perubahan"
+    ]
+  },
+  {
+    "id": "IPS9-20-A",
+    "indikator": 20,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Perubahan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Berikut ini yang merupakan contoh perubahan dalam sejarah adalah...",
+    "jawaban": "Alat transportasi berubah dari delman menjadi kereta api",
+    "pembahasan": "Alat transportasi yang berubah dari delman menjadi kereta api adalah contoh perubahan. Bahasa Indonesia yang tetap digunakan, gotong royong, dan upacara adat yang terus dilaksanakan adalah contoh keberlanjutan.",
+    "pilihan": [
+      "Bahasa Indonesia tetap digunakan sampai sekarang",
+      "Gotong royong terus dilakukan masyarakat",
+      "Alat transportasi berubah dari delman menjadi kereta api",
+      "Upacara adat tetap dilaksanakan setiap tahun"
+    ]
+  },
+  {
+    "id": "IPS9-20-B",
+    "indikator": 20,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Perubahan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Pada masa lalu orang mengirim surat melalui pos, sekarang mengirim pesan melalui telepon genggam. Hal itu menunjukkan adanya...",
+    "jawaban": "Perubahan",
+    "pembahasan": "Cara berkomunikasi yang berubah dari surat pos menjadi telepon genggam menunjukkan adanya perubahan. Hal yang tetap dilakukan hingga sekarang justru menunjukkan keberlanjutan.",
+    "pilihan": [
+      "Keberlanjutan",
+      "Perubahan",
+      "Pengulangan",
+      "Kemandegan"
+    ]
+  },
+  {
+    "id": "IPS9-21-A",
+    "indikator": 21,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Keberlanjutan dalam sejarah berarti...",
+    "jawaban": "Suatu keadaan atau kebiasaan yang tetap berlangsung dari masa lampau hingga masa kini",
+    "pembahasan": "Keberlanjutan adalah keadaan atau kebiasaan yang tetap berlangsung dari masa lampau hingga masa kini. Keadaan yang hilang begitu saja atau terjadi sekali saja bukan keberlanjutan.",
+    "pilihan": [
+      "Suatu keadaan yang hilang begitu saja",
+      "Suatu keadaan atau kebiasaan yang tetap berlangsung dari masa lampau hingga masa kini",
+      "Suatu peristiwa yang terjadi sekali saja",
+      "Suatu kebiasaan yang baru muncul hari ini"
+    ]
+  },
+  {
+    "id": "IPS9-21-B",
+    "indikator": 21,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Meskipun zaman berubah, upacara adat masih terus dilaksanakan oleh masyarakat. Hal itu merupakan contoh...",
+    "jawaban": "Keberlanjutan",
+    "pembahasan": "Upacara adat yang masih terus dilaksanakan meskipun zaman berubah adalah contoh keberlanjutan. Cara hidup yang berubah justru contoh perubahan.",
+    "pilihan": [
+      "Perubahan",
+      "Keberlanjutan",
+      "Pengulangan",
+      "Kemunduran"
+    ]
+  },
+  {
+    "id": "IPS9-22-A",
+    "indikator": 22,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Berikut ini yang merupakan contoh keberlanjutan dalam sejarah adalah...",
+    "jawaban": "Tradisi gotong royong yang masih dilakukan hingga sekarang",
+    "pembahasan": "Tradisi gotong royong yang masih dilakukan hingga sekarang adalah contoh keberlanjutan. Telepon genggam, bus, dan lampu listrik yang menggantikan yang lama adalah contoh perubahan.",
+    "pilihan": [
+      "Penggunaan telepon genggam menggantikan surat",
+      "Tradisi gotong royong yang masih dilakukan hingga sekarang",
+      "Delman digantikan oleh bus",
+      "Lampu minyak digantikan lampu listrik"
+    ]
+  },
+  {
+    "id": "IPS9-22-B",
+    "indikator": 22,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Bahasa daerah yang tetap digunakan oleh masyarakat hingga sekarang menunjukkan adanya...",
+    "jawaban": "Keberlanjutan",
+    "pembahasan": "Bahasa daerah yang tetap digunakan hingga sekarang adalah contoh keberlanjutan, yaitu hal dari masa lampau yang tetap berlangsung. Bahasa yang hilang justru kebalikannya.",
+    "pilihan": [
+      "Perubahan",
+      "Keberlanjutan",
+      "Kemunduran",
+      "Pengulangan"
+    ]
+  },
+  {
+    "id": "IPS9-23-A",
+    "indikator": 23,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Dengan mempelajari sejarah, kita dapat mengambil pelajaran agar tidak mengulangi kesalahan masa lalu. Manfaat sejarah tersebut adalah sebagai...",
+    "jawaban": "Pelajaran",
+    "pembahasan": "Mengambil pelajaran dari masa lalu agar tidak mengulangi kesalahan adalah manfaat sejarah sebagai pelajaran. Sejarah bukan sekadar hiburan, dongeng, atau ramalan.",
+    "pilihan": [
+      "Hiburan",
+      "Pelajaran",
+      "Dongeng",
+      "Ramalan"
+    ]
+  },
+  {
+    "id": "IPS9-23-B",
+    "indikator": 23,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Mudah",
+    "soal": "Bangsa yang tidak mempelajari sejarahnya akan mudah mengulangi kesalahan yang sama. Pernyataan ini menunjukkan sejarah bermanfaat sebagai...",
+    "jawaban": "Pelajaran",
+    "pembahasan": "Jika suatu bangsa tidak mempelajari sejarahnya, ia tidak dapat mengambil pelajaran dan mudah mengulangi kesalahan yang sama. Inilah manfaat sejarah sebagai pelajaran.",
+    "pilihan": [
+      "Hiburan",
+      "Dongeng",
+      "Ramalan",
+      "Pelajaran"
+    ]
+  },
+  {
+    "id": "IPS9-24-A",
+    "indikator": 24,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Sedang",
+    "soal": "Sejarah membantu suatu bangsa mengenal asal-usul dan jati dirinya. Manfaat sejarah tersebut adalah sebagai...",
+    "jawaban": "Identitas dan jati diri bangsa",
+    "pembahasan": "Mengenal asal-usul dan jati diri adalah manfaat sejarah sebagai identitas dan jati diri bangsa. Sejarah tidak berfungsi sebagai hiburan semata, ramalan, atau dongeng.",
+    "pilihan": [
+      "Hiburan semata",
+      "Ramalan masa depan",
+      "Identitas dan jati diri bangsa",
+      "Dongeng pengantar tidur"
+    ]
+  },
+  {
+    "id": "IPS9-24-B",
+    "indikator": 24,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Sedang",
+    "soal": "Dengan mengenal sejarah bangsanya, generasi muda merasa bangga menjadi bagian dari bangsanya. Hal ini menunjukkan sejarah berfungsi sebagai...",
+    "jawaban": "Identitas dan jati diri bangsa",
+    "pembahasan": "Rasa bangga menjadi bagian dari bangsanya setelah mengenal sejarahnya menunjukkan sejarah berfungsi sebagai identitas dan jati diri bangsa.",
+    "pilihan": [
+      "Ramalan masa depan",
+      "Hiburan semata",
+      "Dongeng pengantar tidur",
+      "Identitas dan jati diri bangsa"
+    ]
+  },
+  {
+    "id": "IPS9-25-A",
+    "indikator": 25,
+    "tipe": "PG",
+    "varian": "A",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Sedang",
+    "soal": "Kebiasaan luhur dari masa lampau yang masih dijaga sampai sekarang, seperti musyawarah dan gotong royong, merupakan contoh...",
+    "jawaban": "Keberlanjutan",
+    "pembahasan": "Musyawarah dan gotong royong yang masih dijaga sampai sekarang adalah contoh keberlanjutan. Kebiasaan baru atau yang sudah ditinggalkan bukan keberlanjutan.",
+    "pilihan": [
+      "Perubahan",
+      "Keberlanjutan",
+      "Kemunduran",
+      "Pengulangan"
+    ]
+  },
+  {
+    "id": "IPS9-25-B",
+    "indikator": 25,
+    "tipe": "PG",
+    "varian": "B",
+    "materi": "Keberlanjutan dalam sejarah",
+    "level": "Sedang",
+    "soal": "Nilai-nilai perjuangan para pahlawan yang masih dijunjung tinggi hingga kini menunjukkan adanya...",
+    "jawaban": "Keberlanjutan",
+    "pembahasan": "Nilai perjuangan yang masih dijunjung tinggi hingga kini menunjukkan keberlanjutan, yaitu hal dari masa lampau yang tetap berlangsung. Nilai yang sudah tidak dikenal lagi justru menunjukkan perubahan.",
+    "pilihan": [
+      "Perubahan",
+      "Kemunduran",
+      "Keberlanjutan",
+      "Pengulangan"
+    ]
+  },
+  {
+    "id": "IPS9-26-A",
+    "indikator": 26,
+    "tipe": "Benar-Salah",
+    "varian": "A",
+    "materi": "Sejarah lokal",
+    "level": "Mudah",
+    "soal": "Pernyataan: Sejarah lokal adalah sejarah tentang peristiwa yang terjadi di suatu daerah atau wilayah tertentu.",
+    "jawaban": "Benar",
+    "pembahasan": "Pernyataan itu benar: sejarah lokal mempelajari peristiwa yang terjadi di suatu daerah atau wilayah tertentu, misalnya sejarah Lampung."
+  },
+  {
+    "id": "IPS9-26-B",
+    "indikator": 26,
+    "tipe": "Benar-Salah",
+    "varian": "B",
+    "materi": "Sejarah lokal",
+    "level": "Mudah",
+    "soal": "Pernyataan: Sejarah lokal hanya mempelajari peristiwa yang terjadi di ibu kota negara.",
+    "jawaban": "Salah",
+    "pembahasan": "Pernyataan itu salah: sejarah lokal mempelajari peristiwa di suatu daerah atau wilayah tertentu, bukan hanya di ibu kota negara."
+  },
+  {
+    "id": "IPS9-27-A",
+    "indikator": 27,
+    "tipe": "Benar-Salah",
+    "varian": "A",
+    "materi": "Sejarah lokal",
+    "level": "Mudah",
+    "soal": "Pernyataan: Upacara adat yang diwariskan secara turun-temurun di suatu daerah merupakan contoh sejarah lokal.",
+    "jawaban": "Benar",
+    "pembahasan": "Pernyataan itu benar: upacara adat yang diwariskan turun-temurun di suatu daerah merupakan bagian dari sejarah lokal daerah itu."
+  },
+  {
+    "id": "IPS9-27-B",
+    "indikator": 27,
+    "tipe": "Benar-Salah",
+    "varian": "B",
+    "materi": "Sejarah lokal",
+    "level": "Mudah",
+    "soal": "Pernyataan: Peristiwa Proklamasi Kemerdekaan di Jakarta merupakan contoh sejarah lokal Lampung.",
+    "jawaban": "Salah",
+    "pembahasan": "Pernyataan itu salah: Proklamasi di Jakarta adalah peristiwa nasional, bukan sejarah lokal Lampung. Sejarah lokal Lampung mempelajari peristiwa yang terjadi di Lampung."
+  },
+  {
+    "id": "IPS9-28-A",
+    "indikator": 28,
+    "tipe": "Benar-Salah",
+    "varian": "A",
+    "materi": "Sejarah lokal",
+    "level": "Sedang",
+    "soal": "Pernyataan: Sejarah lokal tradisi hanya mencakup bangunan tua, bukan cerita rakyat dan upacara adat.",
+    "jawaban": "Salah",
+    "pembahasan": "Pernyataan itu salah: cerita rakyat dan upacara adat juga merupakan bagian dari sejarah lokal tradisi, bukan hanya bangunan tua."
+  },
+  {
+    "id": "IPS9-28-B",
+    "indikator": 28,
+    "tipe": "Benar-Salah",
+    "varian": "B",
+    "materi": "Sejarah lokal",
+    "level": "Sedang",
+    "soal": "Pernyataan: Cerita rakyat dan upacara adat dapat menjadi bagian dari sejarah lokal tradisi.",
+    "jawaban": "Benar",
+    "pembahasan": "Pernyataan itu benar: cerita rakyat dan upacara adat yang diwariskan turun-temurun merupakan bagian dari sejarah lokal tradisi suatu daerah."
+  },
+  {
+    "id": "IPS9-29-A",
+    "indikator": 29,
+    "tipe": "Benar-Salah",
+    "varian": "A",
+    "materi": "Sejarah lokal",
+    "level": "Sedang",
+    "soal": "Pernyataan: Mempelajari sejarah lokal tidak ada hubungannya dengan identitas suatu daerah.",
+    "jawaban": "Salah",
+    "pembahasan": "Pernyataan itu salah: mempelajari sejarah lokal justru membantu masyarakat memahami identitas dan jati diri daerahnya."
+  },
+  {
+    "id": "IPS9-29-B",
+    "indikator": 29,
+    "tipe": "Benar-Salah",
+    "varian": "B",
+    "materi": "Sejarah lokal",
+    "level": "Sedang",
+    "soal": "Pernyataan: Sejarah lokal membantu masyarakat memahami identitas dan jati diri daerahnya.",
+    "jawaban": "Benar",
+    "pembahasan": "Pernyataan itu benar: dengan mempelajari sejarah lokal, masyarakat mengenal asal-usul dan jati diri daerahnya."
+  },
+  {
+    "id": "IPS9-30-A",
+    "indikator": 30,
+    "tipe": "Benar-Salah",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Pernyataan: Raden Intan II adalah tokoh dari Lampung yang memimpin perlawanan terhadap Belanda.",
+    "jawaban": "Benar",
+    "pembahasan": "Pernyataan itu benar: Raden Intan II adalah tokoh perlawanan rakyat Lampung terhadap Belanda pada abad ke-19."
+  },
+  {
+    "id": "IPS9-30-B",
+    "indikator": 30,
+    "tipe": "Benar-Salah",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Pernyataan: Raden Intan II adalah pedagang VOC yang datang ke Lampung untuk berdagang lada.",
+    "jawaban": "Salah",
+    "pembahasan": "Pernyataan itu salah: Raden Intan II bukan pedagang VOC, melainkan tokoh Lampung yang memimpin perlawanan terhadap Belanda. VOC-lah yang datang ke Lampung untuk berdagang, antara lain lada."
+  },
+  {
+    "id": "IPS9-31-A",
+    "indikator": 31,
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Jodohkan faktor berikut dengan istilah yang tepat.\nFaktor: VOC datang ke Lampung terutama untuk menguasai perdagangan lada.",
+    "jawaban": "Motif ekonomi (lada)",
+    "pembahasan": "VOC datang ke Lampung terutama karena motif ekonomi, yaitu menguasai perdagangan lada yang terkenal dari Lampung. Letak strategis dan penyebaran agama bukan faktor utamanya.",
+    "pilihan": [
+      "Motif ekonomi (lada)",
+      "Letak strategis",
+      "Penyebaran agama",
+      "Pertukaran budaya"
+    ]
+  },
+  {
+    "id": "IPS9-31-B",
+    "indikator": 31,
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Jodohkan faktor berikut dengan istilah yang tepat.\nFaktor: Lampung terletak di ujung selatan Sumatra dan dekat dengan Selat Sunda, sehingga mudah dijangkau kapal dagang.",
+    "jawaban": "Letak strategis",
+    "pembahasan": "Letak Lampung di ujung selatan Sumatra dan dekat Selat Sunda membuat daerah itu mudah dijangkau kapal dagang, dan itulah yang dimaksud letak strategis. Motif ekonomi berkaitan dengan lada, bukan letak.",
+    "pilihan": [
+      "Motif ekonomi (lada)",
+      "Penyebaran agama",
+      "Letak strategis",
+      "Pertukaran budaya"
+    ]
+  },
+  {
+    "id": "IPS9-32-A",
+    "indikator": 32,
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan penyebab berikut dengan istilah yang tepat.\nPenyebab: Belanda ikut campur dalam urusan pemerintahan dan perdagangan di Lampung.",
+    "jawaban": "Campur tangan Belanda",
+    "pembahasan": "Belanda yang ikut campur dalam pemerintahan dan perdagangan Lampung adalah bentuk campur tangan Belanda, dan hal itu menimbulkan perlawanan Raden Intan II. Monopoli adalah pemaksaan perdagangan oleh satu pihak saja.",
+    "pilihan": [
+      "Campur tangan Belanda",
+      "Monopoli perdagangan",
+      "Kerja sama dagang",
+      "Perdamaian"
+    ]
+  },
+  {
+    "id": "IPS9-32-B",
+    "indikator": 32,
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan penyebab berikut dengan istilah yang tepat.\nPenyebab: Belanda memaksa rakyat Lampung hanya boleh berdagang lada melalui VOC dengan harga yang ditentukan Belanda.",
+    "jawaban": "Monopoli perdagangan",
+    "pembahasan": "Memaksa rakyat hanya boleh berdagang melalui satu pihak dengan harga yang ditentukan pihak itu adalah monopoli perdagangan. Hal itu merugikan rakyat dan menjadi salah satu penyebab perlawanan.",
+    "pilihan": [
+      "Campur tangan Belanda",
+      "Kerja sama dagang",
+      "Monopoli perdagangan",
+      "Perdamaian"
+    ]
+  },
+  {
+    "id": "IPS9-33-A",
+    "indikator": 33,
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan strategi berikut dengan istilah yang tepat.\nStrategi: Pasukan Raden Intan II menyerang secara mendadak, lalu mundur ke hutan dan tidak bertempur di lapangan terbuka.",
+    "jawaban": "Perang gerilya",
+    "pembahasan": "Menyerang secara mendadak lalu mundur ke hutan tanpa bertempur di lapangan terbuka adalah perang gerilya. Pertahanan benteng justru mempertahankan satu tempat secara tetap.",
+    "pilihan": [
+      "Pertahanan benteng",
+      "Perang gerilya",
+      "Perang terbuka",
+      "Perundingan"
+    ]
+  },
+  {
+    "id": "IPS9-33-B",
+    "indikator": 33,
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan strategi berikut dengan istilah yang tepat.\nStrategi: Pasukan Raden Intan II mempertahankan wilayah pedalaman dan menyerang Belanda dari tempat persembunyian di hutan.",
+    "jawaban": "Pertahanan pedalaman",
+    "pembahasan": "Mempertahankan wilayah pedalaman dan menyerang dari tempat persembunyian di hutan adalah strategi pertahanan pedalaman yang dijalankan secara gerilya. Perang terbuka justru bertempur berhadap-hadapan di lapangan terbuka.",
+    "pilihan": [
+      "Perang terbuka",
+      "Perundingan",
+      "Pertahanan pedalaman",
+      "Penyerahan diri"
+    ]
+  },
+  {
+    "id": "IPS9-34-A",
+    "indikator": 34,
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Jodohkan peninggalan berikut dengan istilah yang tepat.\nPeninggalan: Tempat peristirahatan terakhir Raden Intan II di Lampung yang dikenang sebagai bukti perjuangannya.",
+    "jawaban": "Makam Raden Intan II",
+    "pembahasan": "Makam Raden Intan II di Lampung merupakan peninggalan yang menjadi bukti perjuangan dan tempat mengenang jasanya. Benda pusaka adalah benda peninggalan lainnya, bukan makamnya.",
+    "pilihan": [
+      "Makam Raden Intan II",
+      "Benda pusaka",
+      "Prasasti kerajaan",
+      "Candi kuno"
+    ]
+  },
+  {
+    "id": "IPS9-34-B",
+    "indikator": 34,
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Jodohkan peninggalan berikut dengan istilah yang tepat.\nPeninggalan: Benda-benda peninggalan masa perjuangan yang disimpan dan dirawat di museum.",
+    "jawaban": "Peninggalan di museum",
+    "pembahasan": "Benda-benda peninggalan masa perjuangan yang disimpan di museum merupakan bukti perjuangan yang dapat dipelajari generasi sekarang. Makam adalah tempat peristirahatan tokoh, bukan benda museum.",
+    "pilihan": [
+      "Makam Raden Intan II",
+      "Peninggalan di museum",
+      "Prasasti kerajaan",
+      "Candi kuno"
+    ]
+  },
+  {
+    "id": "IPS9-35-A",
+    "indikator": 35,
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan penyebab berikut dengan istilah yang tepat.\nPenyebab: Pasukan Belanda memiliki senjata yang lebih modern dan jumlah pasukan yang jauh lebih besar daripada pasukan Raden Intan II.",
+    "jawaban": "Keunggulan persenjataan Belanda",
+    "pembahasan": "Senjata yang lebih modern dan jumlah pasukan yang jauh lebih besar adalah keunggulan persenjataan Belanda, dan hal itu menjadi salah satu penyebab kekalahan perlawanan Raden Intan II.",
+    "pilihan": [
+      "Keunggulan persenjataan Belanda",
+      "Dukungan yang melemah",
+      "Kekurangan perbekalan",
+      "Cuaca buruk"
+    ]
+  },
+  {
+    "id": "IPS9-35-B",
+    "indikator": 35,
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Sedang",
+    "soal": "Jodohkan penyebab berikut dengan istilah yang tepat.\nPenyebab: Dukungan terhadap perjuangan Raden Intan II semakin berkurang sehingga perlawanannya semakin lemah.",
+    "jawaban": "Dukungan yang melemah",
+    "pembahasan": "Dukungan yang semakin berkurang membuat perlawanan semakin lemah, dan hal itu menjadi salah satu penyebab kekalahan perjuangan Raden Intan II. Keunggulan persenjataan adalah penyebab dari pihak Belanda.",
+    "pilihan": [
+      "Keunggulan persenjataan Belanda",
+      "Kekurangan perbekalan",
+      "Dukungan yang melemah",
+      "Cuaca buruk"
+    ]
+  },
+  {
+    "id": "IPS9-36-A",
+    "indikator": 36,
+    "tipe": "Jawaban Singkat",
+    "varian": "A",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Sebutkan dua nilai keteladanan Raden Intan II!",
+    "jawaban": "Berani dan rela berkorban",
+    "pembahasan": "Dua nilai keteladanan Raden Intan II adalah berani dan rela berkorban: ia berani memimpin perlawanan terhadap Belanda dan rela berkorban demi tanah airnya."
+  },
+  {
+    "id": "IPS9-36-B",
+    "indikator": 36,
+    "tipe": "Jawaban Singkat",
+    "varian": "B",
+    "materi": "Raden Intan II",
+    "level": "Mudah",
+    "soal": "Sebutkan dua nilai keteladanan Raden Intan II selain berani!",
+    "jawaban": "Pantang menyerah dan cinta tanah air",
+    "pembahasan": "Selain berani, nilai keteladanan Raden Intan II adalah pantang menyerah dan cinta tanah air: ia terus berjuang membela tanah airnya meskipun menghadapi musuh yang lebih kuat."
+  },
+  {
+    "id": "IPS9-37-A",
+    "indikator": 37,
+    "tipe": "Jawaban Singkat",
+    "varian": "A",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Mudah",
+    "soal": "Sebutkan satu contoh peninggalan sejarah yang masih dapat kita lihat hingga sekarang!",
+    "jawaban": "Candi Borobudur",
+    "pembahasan": "Candi Borobudur adalah contoh peninggalan sejarah masa lampau yang masih dapat kita lihat hingga sekarang dan menjadi bukti keterhubungan masa lampau dengan masa sekarang."
+  },
+  {
+    "id": "IPS9-37-B",
+    "indikator": 37,
+    "tipe": "Jawaban Singkat",
+    "varian": "B",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Mudah",
+    "soal": "Sebutkan satu contoh tradisi dari masa lampau yang masih dilakukan masyarakat hingga sekarang!",
+    "jawaban": "Gotong royong",
+    "pembahasan": "Gotong royong adalah contoh tradisi dari masa lampau yang masih dilakukan masyarakat hingga sekarang, sehingga menunjukkan keterhubungan masa lampau dengan masa sekarang."
+  },
+  {
+    "id": "IPS9-38-A",
+    "indikator": 38,
+    "tipe": "Jawaban Singkat",
+    "varian": "A",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Sedang",
+    "soal": "Sikap kita hari ini dapat menjadi pelajaran bagi generasi yang akan datang karena masa kini berhubungan dengan masa ...?",
+    "jawaban": "Yang akan datang",
+    "pembahasan": "Masa kini berhubungan dengan masa yang akan datang: apa yang kita lakukan hari ini dapat menjadi pelajaran bagi generasi yang akan datang."
+  },
+  {
+    "id": "IPS9-38-B",
+    "indikator": 38,
+    "tipe": "Jawaban Singkat",
+    "varian": "B",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Sedang",
+    "soal": "Untuk memperbaiki masa depan, generasi mendatang dapat belajar dari peristiwa pada masa ...?",
+    "jawaban": "Lampau",
+    "pembahasan": "Generasi mendatang dapat belajar dari peristiwa masa lampau, sehingga masa depan berkaitan dengan masa lampau: kesalahan masa lampau menjadi pelajaran untuk masa depan."
+  },
+  {
+    "id": "IPS9-39-A",
+    "indikator": 39,
+    "tipe": "Jawaban Singkat",
+    "varian": "A",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Sedang",
+    "soal": "Kegiatan melestarikan candi dan benda bersejarah dilakukan agar dapat dipelajari pada masa ...?",
+    "jawaban": "Yang akan datang",
+    "pembahasan": "Candi dan benda bersejarah dilestarikan agar dapat dipelajari pada masa yang akan datang. Inilah contoh keterhubungan antara masa kini dan masa yang akan datang."
+  },
+  {
+    "id": "IPS9-39-B",
+    "indikator": 39,
+    "tipe": "Jawaban Singkat",
+    "varian": "B",
+    "materi": "Keterhubungan masa lampau, masa kini, dan masa yang akan datang",
+    "level": "Sedang",
+    "soal": "Menuliskan peristiwa penting yang terjadi hari ini penting dilakukan agar generasi ... dapat mempelajarinya.",
+    "jawaban": "Masa depan",
+    "pembahasan": "Peristiwa penting hari ini dituliskan agar dapat dipelajari oleh generasi masa depan. Catatan peristiwa hari ini menjadi sumber sejarah bagi masa depan."
+  },
+  {
+    "id": "IPS9-40-A",
+    "indikator": 40,
+    "tipe": "Jawaban Singkat",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sedang",
+    "soal": "Kota Yogyakarta berasal dari kata \"Yogya\" yang berarti baik dan \"Karta\" yang berarti makmur, sehingga Yogyakarta berarti kota yang ...?",
+    "jawaban": "Kota yang makmur",
+    "pembahasan": "Yogyakarta berasal dari kata \"Yogya\" (baik) dan \"Karta\" (makmur), sehingga berarti kota yang makmur. Nama ini menunjukkan harapan agar kota itu menjadi tempat tinggal yang baik dan makmur."
+  },
+  {
+    "id": "IPS9-40-B",
+    "indikator": 40,
+    "tipe": "Jawaban Singkat",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sedang",
+    "soal": "Nama Yogyakarta diambil dari kata dalam bahasa Sanskerta, yaitu...",
+    "jawaban": "Ayodhya",
+    "pembahasan": "Nama Yogyakarta diambil dari kata Sanskerta \"Ayodhya\", nama kota dalam kisah Ramayana. Kata ini menjadi asal nama Yogyakarta."
+  },
+  {
+    "id": "IPS9-41-A",
+    "indikator": 41,
+    "tipe": "Uraian",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Jelaskan asal-usul nama Jakarta berdasarkan sejarahnya!",
+    "jawaban": "Nama Jakarta berasal dari peristiwa perebutan Sunda Kelapa oleh Fatahillah pada tahun 1527. Setelah berhasil merebut pelabuhan Sunda Kelapa dari Portugis dan penguasa setempat, Fatahillah menamai kota itu Jayakarta, yang berarti kemenangan yang gemilang. Pada masa penjajahan Belanda, nama itu diubah menjadi Batavia. Setelah Indonesia merdeka, nama kota dikembalikan ke bentuk asalnya, yaitu Jakarta.",
+    "pembahasan": "Jawaban yang baik harus menyebutkan: (1) nama awal Sunda Kelapa, (2) perebutan oleh Fatahillah dan nama Jayakarta yang berarti kemenangan yang gemilang, (3) perubahan nama menjadi Batavia pada masa Belanda, (4) pengembalian nama menjadi Jakarta setelah kemerdekaan."
+  },
+  {
+    "id": "IPS9-41-B",
+    "indikator": 41,
+    "tipe": "Uraian",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Mengapa kota ini mula-mula bernama Jayakarta, lalu Batavia, dan akhirnya Jakarta? Jelaskan!",
+    "jawaban": "Kota ini mula-mula bernama Sunda Kelapa. Setelah direbut oleh Fatahillah, kota itu dinamai Jayakarta yang berarti kemenangan yang gemilang, sebagai tanda kemenangan atas musuh. Ketika Belanda berkuasa, Belanda mengganti namanya menjadi Batavia, nama peninggalan dari Belanda. Setelah Indonesia merdeka, nama kota dikembalikan menjadi Jakarta, bentuk yang berasal dari Jayakarta.",
+    "pembahasan": "Jawaban yang baik harus menjelaskan ketiga nama itu secara berurutan: Jayakarta sebagai tanda kemenangan, Batavia sebagai nama dari Belanda, dan Jakarta sebagai pengembalian nama setelah merdeka."
+  },
+  {
+    "id": "IPS9-42-A",
+    "indikator": 42,
+    "tipe": "Uraian",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Jelaskan asal-usul nama Cirebon!",
+    "jawaban": "Nama Cirebon berasal dari kata \"Caruban\" yang berarti campuran. Cirebon adalah kota pelabuhan tempat bertemu dan bercampurnya berbagai suku dan budaya, seperti Sunda, Jawa, Tionghoa, dan Arab. Karena itulah daerah itu disebut Caruban, yang kemudian berubah menjadi Cirebon. Ada pula penjelasan lain bahwa nama itu berasal dari \"ci\" yang berarti air dan \"rebon\" yang berarti udang kecil, karena di perairan Cirebon banyak terdapat udang rebon.",
+    "pembahasan": "Jawaban yang baik harus menyebutkan: (1) kata \"Caruban\" yang berarti campuran, (2) pertemuan berbagai suku dan budaya di pelabuhan Cirebon, dan (3) boleh juga menyebutkan penjelasan \"ci-rebon\" sebagai versi lain yang dikenal masyarakat."
+  },
+  {
+    "id": "IPS9-42-B",
+    "indikator": 42,
+    "tipe": "Uraian",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Apa arti kata Caruban dan apa kaitannya dengan nama Cirebon? Jelaskan!",
+    "jawaban": "\"Caruban\" berarti campuran. Nama Cirebon dikaitkan dengan kata Caruban karena di pelabuhan Cirebon bercampur berbagai suku dan budaya, seperti Sunda, Jawa, Tionghoa, dan Arab yang datang untuk berdagang. Pertemuan dan percampuran itulah yang menjadi asal nama Cirebon. Ada pula yang mengaitkan nama Cirebon dengan \"ci\" (air) dan \"rebon\" (udang kecil) karena banyaknya udang rebon di perairan setempat.",
+    "pembahasan": "Jawaban yang baik harus menjelaskan arti \"Caruban\" (campuran) dan kaitannya dengan pertemuan berbagai suku dan budaya di pelabuhan Cirebon."
+  },
+  {
+    "id": "IPS9-43-A",
+    "indikator": 43,
+    "tipe": "Uraian",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Jelaskan asal-usul nama Surabaya berdasarkan cerita rakyat yang terkenal!",
+    "jawaban": "Nama Surabaya berasal dari legenda Sura dan Baya. Menurut cerita rakyat, Sura adalah ikan hiu dan Baya adalah buaya. Keduanya bertarung memperebutkan wilayah di sungai dan laut. Pertarungan itu sangat sengit. Nama kota Surabaya diambil dari gabungan nama keduanya, yaitu \"Sura\" dan \"Baya\". Cerita ini adalah legenda atau cerita rakyat, bukan catatan sejarah yang dapat dibuktikan dengan dokumen.",
+    "pembahasan": "Jawaban yang baik harus menyebutkan: (1) Sura adalah ikan hiu dan Baya adalah buaya, (2) keduanya bertarung memperebutkan wilayah, (3) nama Surabaya berasal dari gabungan \"Sura\" dan \"Baya\", dan (4) cerita ini bersifat legenda."
+  },
+  {
+    "id": "IPS9-43-B",
+    "indikator": 43,
+    "tipe": "Uraian",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Ceritakan legenda yang melatarbelakangi nama Surabaya!",
+    "jawaban": "Menurut legenda, ada seekor ikan hiu bernama Sura dan seekor buaya bernama Baya. Keduanya bertarung untuk memperebutkan wilayah perairan dan daratan di sekitar sungai. Pertarungan mereka sangat terkenal dan menjadi cerita yang diwariskan turun-temurun. Dari nama Sura dan Baya itulah kota ini dinamai Surabaya. Legenda ini diperingati hingga sekarang, salah satunya melalui patung Sura dan Baya di Kota Surabaya.",
+    "pembahasan": "Jawaban yang baik harus menceritakan Sura (hiu) dan Baya (buaya), pertarungan mereka memperebutkan wilayah, dan nama Surabaya yang berasal dari gabungan kedua nama itu."
+  },
+  {
+    "id": "IPS9-44-A",
+    "indikator": 44,
+    "tipe": "Uraian",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Jelaskan asal-usul nama Pringsewu!",
+    "jawaban": "Nama Pringsewu berasal dari kata \"pring\" yang berarti bambu dan \"sewu\" yang berarti seribu dalam bahasa Jawa. Dahulu, daerah yang sekarang disebut Pringsewu di Lampung banyak ditumbuhi pohon bambu, seolah-olah ada seribu bambu di sana. Para pendatang dari Jawa yang bermukim di daerah itu kemudian menamainya Pringsewu, yaitu tempat dengan seribu bambu.",
+    "pembahasan": "Jawaban yang baik harus menyebutkan: (1) \"pring\" berarti bambu dan \"sewu\" berarti seribu, (2) daerah itu dahulu banyak ditumbuhi bambu, dan (3) nama diberikan oleh para pendatang dari Jawa yang bermukim di Lampung."
+  },
+  {
+    "id": "IPS9-44-B",
+    "indikator": 44,
+    "tipe": "Uraian",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Apa arti kata \"pring\" dan \"sewu\" serta apa kaitannya dengan nama Pringsewu? Jelaskan!",
+    "jawaban": "\"Pring\" berarti bambu dan \"sewu\" berarti seribu. Nama Pringsewu berkaitan dengan keadaan daerah itu pada masa lalu yang banyak ditumbuhi pohon bambu, sehingga seolah-olah ada seribu bambu. Para pendatang dari Jawa menamai daerah permukiman baru mereka di Lampung itu Pringsewu.",
+    "pembahasan": "Jawaban yang baik harus menjelaskan arti \"pring\" (bambu) dan \"sewu\" (seribu) serta kaitannya dengan keadaan daerah Pringsewu yang dahulu banyak ditumbuhi bambu."
+  },
+  {
+    "id": "IPS9-45-A",
+    "indikator": 45,
+    "tipe": "Uraian",
+    "varian": "A",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Jelaskan asal-usul nama Way Jepara!",
+    "jawaban": "\"Way\" dalam bahasa Lampung berarti sungai atau air. Way Jepara adalah sebuah sungai di Lampung Timur, dan wilayah di sekitarnya dinamai menurut sungai itu. Kata \"Jepara\" dikaitkan dengan para pendatang dari Jepara di Jawa Tengah yang bermukim di sekitar sungai tersebut. Jadi, nama Way Jepara menunjukkan sungai di wilayah permukiman pendatang dari Jepara. Penjelasan ini disampaikan secara umum karena asal-usul toponimi sering didasarkan pada sejarah lisan masyarakat setempat.",
+    "pembahasan": "Jawaban yang baik harus menyebutkan: (1) \"way\" dalam bahasa Lampung berarti sungai atau air, (2) Way Jepara adalah sungai di Lampung Timur, dan (3) nama \"Jepara\" dikaitkan dengan para pendatang dari Jepara yang bermukim di sana."
+  },
+  {
+    "id": "IPS9-45-B",
+    "indikator": 45,
+    "tipe": "Uraian",
+    "varian": "B",
+    "materi": "Toponimi wilayah",
+    "level": "Sulit",
+    "soal": "Apa arti kata \"way\" dan apa kaitan nama Jepara dengan wilayah tersebut? Jelaskan!",
+    "jawaban": "\"Way\" dalam bahasa Lampung berarti sungai atau air. Way Jepara adalah nama sungai sekaligus nama wilayah di Lampung Timur. Nama \"Jepara\" dikaitkan dengan para pendatang dari Jepara di Jawa Tengah yang tinggal di sekitar sungai itu. Karena itu, nama Way Jepara menunjukkan sungai yang menjadi penanda wilayah permukiman pendatang dari Jepara.",
+    "pembahasan": "Jawaban yang baik harus menjelaskan arti \"way\" (sungai/air dalam bahasa Lampung) dan kaitan nama Jepara dengan para pendatang dari Jepara yang bermukim di sekitar sungai Way Jepara."
+  }
+]

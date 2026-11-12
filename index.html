@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simulasi ASAS IPS SMP Bina Putra — Kelas VIII</title>
+<title>Simulasi ASAS IPS SMP Bina Putra — Kelas VIII &amp; IX</title>
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -27,6 +27,15 @@
     </div>
 
     <div class="card">
+      <h2>Pilih Kelas</h2>
+      <div class="grade-picker" role="group" aria-label="Pilih kelas">
+        <button type="button" class="grade-btn selected" data-grade="8">Kelas 8</button>
+        <button type="button" class="grade-btn" data-grade="9">Kelas 9</button>
+      </div>
+      <p class="note" id="grade-note">Kelas 8: Kegiatan ekonomi, harga, pasar, lembaga keuangan, perdagangan internasional, dan transformasi ekonomi digital.</p>
+    </div>
+
+    <div class="card">
       <h2>Mulai Simulasi</h2>
       <form id="start-form">
         <label for="input-nama">Nama Siswa</label>
@@ -43,7 +52,7 @@
       <h3>Materi</h3>
       <table>
         <thead><tr><th>Materi</th><th>Jumlah Soal</th></tr></thead>
-        <tbody>          <tr><td>Kegiatan ekonomi, produksi/distribusi/konsumsi, pelaku ekonomi</td><td>16</td></tr>
+        <tbody id="materi-rows">          <tr><td>Kegiatan ekonomi, produksi/distribusi/konsumsi, pelaku ekonomi</td><td>16</td></tr>
           <tr><td>Harga</td><td>2</td></tr>
           <tr><td>Pasar</td><td>10</td></tr>
           <tr><td>Lembaga keuangan</td><td>8</td></tr>
@@ -54,7 +63,7 @@
       <h3>Tipe Soal</h3>
       <table>
         <thead><tr><th>Tipe Soal</th><th>Jumlah</th><th>Penilaian</th></tr></thead>
-        <tbody>
+        <tbody id="tipe-rows">
           <tr><td>Pilihan Jamak</td><td>25</td><td>Otomatis</td></tr>
           <tr><td>Benar-Salah</td><td>5</td><td>Otomatis</td></tr>
           <tr><td>Menjodohkan</td><td>5</td><td>Otomatis</td></tr>
@@ -62,7 +71,7 @@
           <tr><td>Uraian</td><td>5</td><td>Cek mandiri</td></tr>
         </tbody>
       </table>
-      <p class="note">Skor otomatis dihitung dari 35 soal (Pilihan Jamak, Benar-Salah, dan Menjodohkan). Isian Singkat dan Uraian dicek mandiri dengan kunci jawaban dan pembahasan setelah selesai.</p>
+      <p class="note" id="type-note">Skor otomatis dihitung dari 35 soal (Pilihan Jamak, Benar-Salah, dan Menjodohkan). Isian Singkat dan Uraian dicek mandiri dengan kunci jawaban dan pembahasan setelah selesai.</p>
     </div>
 
     <div class="card" id="history-card">
@@ -120,7 +129,7 @@
       <p id="result-student" class="result-student"></p>
       <p class="score-big"><span id="result-score">0</span><span class="score-max"> / 100</span></p>
       <p id="result-summary" class="result-summary"></p>
-      <p class="note">Skor dihitung dari 35 soal yang dinilai otomatis (Pilihan Jamak, Benar-Salah, Menjodohkan). Isian Singkat dan Uraian tidak masuk skor — cek sendiri dengan kunci jawaban di bawah.</p>
+      <p class="note" id="result-note">Skor dihitung dari 35 soal yang dinilai otomatis (Pilihan Jamak, Benar-Salah, Menjodohkan). Isian Singkat dan Uraian tidak masuk skor — cek sendiri dengan kunci jawaban di bawah.</p>
       <div class="result-actions">
         <button type="button" id="btn-retry" class="btn btn-primary">Ulangi Tes (Soal Baru)</button>
         <button type="button" id="btn-home" class="btn btn-secondary">Kembali ke Beranda</button>
